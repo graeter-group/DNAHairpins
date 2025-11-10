@@ -1,0 +1,6 @@
+.idea/
+Data/
+__pycache__/
+*.fastq
+*.tpr
+*.gro

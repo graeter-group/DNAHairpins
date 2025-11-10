@@ -1,0 +1,127 @@
+systems:
+  HP064:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 216 ]
+  HP064N:
+    endtoend:
+      - [ 1, 51 ]
+    nhpindices:
+      - [ 1, 50, 167, 216 ]
+    hpindices:
+      - [ 51, 166 ]
+  HP464:
+    endtoend:
+      - [ 1, 105 ]
+    nhpindices:
+      - [ 1, 104 ]
+    hpindices:
+      - [ 105, 220 ]
+  HP464N:
+    endtoend:
+      - [ 1, 53 ]
+    nhpindices:
+      - [ 1, 52, 169, 220 ]
+    hpindices:
+      - [ 53, 168 ]
+  HP564:
+    endtoend:
+      - [ 1, 117 ]
+    nhpindices:
+      - [ 117, 221 ]
+    hpindices:
+      - [ 1, 116 ]
+  HP564N:
+    endtoend:
+      - [ 1, 117 ]
+    nhpindices:
+      - [ 117, 168, 169, 221 ]
+    hpindices:
+      - [ 1, 116 ]
+  HP060:
+    endtoend:
+      - [ ]
+    nhpindices:
+      - [ ]
+    hpindices:
+      - [ ]
+  HP060N:
+    endtoend:
+      - [ ]
+    nhpindices:
+      - [ ]
+    hpindices:
+      - [ ]
+  HP068:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 220 ]
+  HP068N:
+    endtoend:
+      - [ 1, 51 ]
+    nhpindices:
+      - [ 1, 50, 171, 220 ]
+    hpindices:
+      - [ 51, 170 ]
+  HP404:
+    endtoend:
+      - [ 1, 105 ]
+    nhpindices:
+      - [ 1, 104 ]
+    hpindices:
+      - [ 105, 208 ]
+  HP404N:
+    endtoend:
+      - [ 1, 105 ]
+    nhpindices:
+      - [ 105, 156, 157, 208 ]
+    hpindices:
+      - [ 1, 104 ]
+  HP004:
+    endtoend:
+      - [ 1, 105 ]
+    nhpindices:
+      - [ 105, 204 ]
+    hpindices:
+      - [ 1, 104 ]
+  HP004N:
+    endtoend:
+      - [ 1, 105 ]
+    nhpindices:
+      - [ 105, 154, 155, 204 ]
+    hpindices:
+      - [ 1, 104 ]
+  HP044:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 212 ]
+  HP044N:
+    endtoend:
+      - [ 1, 51 ]
+    nhpindices:
+      - [ 1, 50, 163, 212 ]
+    hpindices:
+      - [ 51, 162 ]
+  HP0104:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 224 ]
+  HP0104N:
+    endtoend:
+      - [ 1, 51 ]
+    nhpindices:
+      - [ 1, 50, 175, 224]
+    hpindices:
+      - [ 51, 174 ]

@@ -1,0 +1,32 @@
+2025-11-08, 03:55:08: Starting analysis always using the entire read and normalization_window = 50.
+2025-11-08, 03:55:09: HP0.0.4_1: Number of raw single reads are 136001 (read 1) and 136001 (read 2).
+2025-11-08, 03:55:16: HP0.0.4_1: Invalid reads 16.83 %
+2025-11-08, 03:55:16: HP0.0.4_2: Number of raw single reads are 85437 (read 1) and 85437 (read 2).
+2025-11-08, 03:55:21: HP0.0.4_2: Invalid reads 22.1 %
+2025-11-08, 03:55:21: HP0.0.4_3: Number of raw single reads are 76355 (read 1) and 76355 (read 2).
+2025-11-08, 03:55:25: HP0.0.4_3: Invalid reads 23.22 %
+2025-11-08, 03:55:26: HP0.4.4_1: Number of raw single reads are 99055 (read 1) and 99055 (read 2).
+2025-11-08, 03:55:31: HP0.4.4_1: Invalid reads 17.88 %
+2025-11-08, 03:55:32: HP0.4.4_2: Number of raw single reads are 133742 (read 1) and 133742 (read 2).
+2025-11-08, 03:55:39: HP0.4.4_2: Invalid reads 14.85 %
+2025-11-08, 03:55:40: HP0.4.4_3: Number of raw single reads are 136102 (read 1) and 136102 (read 2).
+2025-11-08, 03:55:52: HP0.4.4_3: Invalid reads 14.87 %
+2025-11-08, 03:55:53: HP0.10.4_1: Number of raw single reads are 138574 (read 1) and 138574 (read 2).
+2025-11-08, 03:56:02: HP0.10.4_1: Invalid reads 19.53 %
+2025-11-08, 03:56:04: HP0.10.4_2: Number of raw single reads are 140981 (read 1) and 140981 (read 2).
+2025-11-08, 03:56:12: HP0.10.4_2: Invalid reads 17.93 %
+2025-11-08, 03:56:13: HP0.10.4_3: Number of raw single reads are 126235 (read 1) and 126235 (read 2).
+2025-11-08, 03:56:21: HP0.10.4_3: Invalid reads 19.49 %
+2025-11-08, 03:56:22: HP0.6.4_1: Number of raw single reads are 106570 (read 1) and 106570 (read 2).
+2025-11-08, 03:56:28: HP0.6.4_1: Invalid reads 16.76 %
+2025-11-08, 03:56:29: HP0.6.4_2: Number of raw single reads are 91930 (read 1) and 91930 (read 2).
+2025-11-08, 03:56:35: HP0.6.4_2: Invalid reads 17.76 %
+2025-11-08, 03:56:36: HP0.6.4_3: Number of raw single reads are 102850 (read 1) and 102850 (read 2).
+2025-11-08, 03:56:42: HP0.6.4_3: Invalid reads 17.73 %
+2025-11-08, 03:56:43: HP4.0.4_1: Number of raw single reads are 111877 (read 1) and 111877 (read 2).
+2025-11-08, 03:56:50: HP4.0.4_1: Invalid reads 22.83 %
+2025-11-08, 03:56:51: HP4.0.4_2: Number of raw single reads are 149651 (read 1) and 149651 (read 2).
+2025-11-08, 03:56:59: HP4.0.4_2: Invalid reads 18.61 %
+2025-11-08, 03:57:00: HP4.0.4_3: Number of raw single reads are 111023 (read 1) and 111023 (read 2).
+2025-11-08, 03:57:08: HP4.0.4_3: Invalid reads 20.45 %
+2025-11-08, 03:57:08: Run finished after 119.0 s.

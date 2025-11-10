@@ -1,0 +1,1 @@
+Please deposit the NGS fastq files provided on Zenodo here LINK (subfolder Hairpins_Selfassembly)

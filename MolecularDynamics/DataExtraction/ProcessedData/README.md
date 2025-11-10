@@ -1,0 +1,1 @@
+Files here are created by process_trajectories.sh with the provided raw data.

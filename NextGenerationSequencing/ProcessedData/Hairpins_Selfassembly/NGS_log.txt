@@ -1,0 +1,6 @@
+2025-11-08, 03:57:29: Starting analysis always using the entire read and normalization_window = 50.
+2025-11-08, 03:57:30: HPSA0.6.4_1: Number of raw single reads are 196482 (read 1) and 196482 (read 2).
+2025-11-08, 03:57:41: HPSA0.6.4_1: Invalid reads 16.84 %
+2025-11-08, 03:57:43: HPSA0.6.4_2: Number of raw single reads are 176946 (read 1) and 176946 (read 2).
+2025-11-08, 03:57:53: HPSA0.6.4_2: Invalid reads 23.2 %
+2025-11-08, 03:57:53: Run finished after 24.0 s.

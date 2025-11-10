@@ -1,0 +1,2 @@
+The raw trajectory data (without waters, in .xtc precision, .tpr, .gro) can be obtained from the ZENODO. 
+Full simulation trajectory data (with waters, .trr format) can be provided upon reasonable request.

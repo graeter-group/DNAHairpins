@@ -1,0 +1,4880 @@
+O5'-C5'.Res1.NHP:
+  Number of samples:  8001
+  Average distance:   0.14256  nm
+  Standard deviation: 0.00319  nm
+O5'-C5'.Res2.NHP:
+  Number of samples:  8001
+  Average distance:   0.14427  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res3.NHP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res4.NHP:
+  Number of samples:  8001
+  Average distance:   0.14436  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res5.NHP:
+  Number of samples:  8001
+  Average distance:   0.14456  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res6.NHP:
+  Number of samples:  8001
+  Average distance:   0.14455  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res7.NHP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res8.NHP:
+  Number of samples:  8001
+  Average distance:   0.14441  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res9.NHP:
+  Number of samples:  8001
+  Average distance:   0.14440  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res10.NHP:
+  Number of samples:  8001
+  Average distance:   0.14444  nm
+  Standard deviation: 0.00320  nm
+O5'-C5'.Res11.NHP:
+  Number of samples:  8001
+  Average distance:   0.14432  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res12.NHP:
+  Number of samples:  8001
+  Average distance:   0.14432  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res13.NHP:
+  Number of samples:  8001
+  Average distance:   0.14429  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res14.NHP:
+  Number of samples:  8001
+  Average distance:   0.14419  nm
+  Standard deviation: 0.00324  nm
+O5'-C5'.Res15.NHP:
+  Number of samples:  8001
+  Average distance:   0.14412  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res16.NHP:
+  Number of samples:  8001
+  Average distance:   0.14424  nm
+  Standard deviation: 0.00332  nm
+O5'-C5'.Res17.NHP:
+  Number of samples:  8001
+  Average distance:   0.14418  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res18.NHP:
+  Number of samples:  8001
+  Average distance:   0.14419  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res19.NHP:
+  Number of samples:  8001
+  Average distance:   0.14406  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res20.NHP:
+  Number of samples:  8001
+  Average distance:   0.14396  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res21.NHP:
+  Number of samples:  8001
+  Average distance:   0.14385  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res22.NHP:
+  Number of samples:  8001
+  Average distance:   0.14378  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res23.NHP:
+  Number of samples:  8001
+  Average distance:   0.14378  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res24.NHP:
+  Number of samples:  8001
+  Average distance:   0.14377  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res25.NHP:
+  Number of samples:  8001
+  Average distance:   0.14383  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res26.NHP:
+  Number of samples:  8001
+  Average distance:   0.14394  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res27.NHP:
+  Number of samples:  8001
+  Average distance:   0.14405  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res28.NHP:
+  Number of samples:  8001
+  Average distance:   0.14406  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res29.NHP:
+  Number of samples:  8001
+  Average distance:   0.14417  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res30.NHP:
+  Number of samples:  8001
+  Average distance:   0.14412  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res31.NHP:
+  Number of samples:  8001
+  Average distance:   0.14463  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res32.NHP:
+  Number of samples:  8001
+  Average distance:   0.14474  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res33.NHP:
+  Number of samples:  8001
+  Average distance:   0.14482  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res34.NHP:
+  Number of samples:  8001
+  Average distance:   0.14503  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res35.NHP:
+  Number of samples:  8001
+  Average distance:   0.14510  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res36.NHP:
+  Number of samples:  8001
+  Average distance:   0.14549  nm
+  Standard deviation: 0.00336  nm
+O5'-C5'.Res37.NHP:
+  Number of samples:  8001
+  Average distance:   0.14563  nm
+  Standard deviation: 0.00335  nm
+O5'-C5'.Res38.NHP:
+  Number of samples:  8001
+  Average distance:   0.14576  nm
+  Standard deviation: 0.00336  nm
+O5'-C5'.Res39.NHP:
+  Number of samples:  8001
+  Average distance:   0.14568  nm
+  Standard deviation: 0.00335  nm
+O5'-C5'.Res40.NHP:
+  Number of samples:  8001
+  Average distance:   0.14564  nm
+  Standard deviation: 0.00334  nm
+O5'-C5'.Res41.NHP:
+  Number of samples:  8001
+  Average distance:   0.14558  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res42.NHP:
+  Number of samples:  8001
+  Average distance:   0.14549  nm
+  Standard deviation: 0.00333  nm
+O5'-C5'.Res43.NHP:
+  Number of samples:  8001
+  Average distance:   0.14533  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res44.NHP:
+  Number of samples:  8001
+  Average distance:   0.14521  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res45.NHP:
+  Number of samples:  8001
+  Average distance:   0.14530  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res46.NHP:
+  Number of samples:  8001
+  Average distance:   0.14538  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res47.NHP:
+  Number of samples:  8001
+  Average distance:   0.14550  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res48.NHP:
+  Number of samples:  8001
+  Average distance:   0.14564  nm
+  Standard deviation: 0.00332  nm
+O5'-C5'.Res49.NHP:
+  Number of samples:  8001
+  Average distance:   0.14589  nm
+  Standard deviation: 0.00338  nm
+O5'-C5'.Res50.NHP:
+  Number of samples:  8001
+  Average distance:   0.14595  nm
+  Standard deviation: 0.00332  nm
+O5'-C5'.Res51.NHP:
+  Number of samples:  8001
+  Average distance:   0.14595  nm
+  Standard deviation: 0.00332  nm
+O5'-C5'.Res52.NHP:
+  Number of samples:  8001
+  Average distance:   0.14581  nm
+  Standard deviation: 0.00336  nm
+O5'-C5'.Res53.NHP:
+  Number of samples:  8001
+  Average distance:   0.14611  nm
+  Standard deviation: 0.00335  nm
+O5'-C5'.Res54.NHP:
+  Number of samples:  8001
+  Average distance:   0.14640  nm
+  Standard deviation: 0.00340  nm
+O5'-C5'.Res55.NHP:
+  Number of samples:  8001
+  Average distance:   0.14642  nm
+  Standard deviation: 0.00337  nm
+O5'-C5'.Res56.NHP:
+  Number of samples:  8001
+  Average distance:   0.14646  nm
+  Standard deviation: 0.00340  nm
+O5'-C5'.Res57.NHP:
+  Number of samples:  8001
+  Average distance:   0.14626  nm
+  Standard deviation: 0.00334  nm
+O5'-C5'.Res58.NHP:
+  Number of samples:  8001
+  Average distance:   0.14630  nm
+  Standard deviation: 0.00338  nm
+O5'-C5'.Res59.NHP:
+  Number of samples:  8001
+  Average distance:   0.14654  nm
+  Standard deviation: 0.00340  nm
+O5'-C5'.Res60.NHP:
+  Number of samples:  8001
+  Average distance:   0.14594  nm
+  Standard deviation: 0.00339  nm
+O5'-C5'.Res61.NHP:
+  Number of samples:  8001
+  Average distance:   0.14575  nm
+  Standard deviation: 0.00337  nm
+O5'-C5'.Res62.NHP:
+  Number of samples:  8001
+  Average distance:   0.14553  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res63.NHP:
+  Number of samples:  8001
+  Average distance:   0.14561  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res64.NHP:
+  Number of samples:  8001
+  Average distance:   0.14542  nm
+  Standard deviation: 0.00334  nm
+O5'-C5'.Res65.NHP:
+  Number of samples:  8001
+  Average distance:   0.14562  nm
+  Standard deviation: 0.00334  nm
+O5'-C5'.Res66.NHP:
+  Number of samples:  8001
+  Average distance:   0.14564  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res67.NHP:
+  Number of samples:  8001
+  Average distance:   0.14586  nm
+  Standard deviation: 0.00333  nm
+O5'-C5'.Res68.NHP:
+  Number of samples:  8001
+  Average distance:   0.14598  nm
+  Standard deviation: 0.00344  nm
+O5'-C5'.Res69.NHP:
+  Number of samples:  8001
+  Average distance:   0.14553  nm
+  Standard deviation: 0.00334  nm
+O5'-C5'.Res70.NHP:
+  Number of samples:  8001
+  Average distance:   0.14554  nm
+  Standard deviation: 0.00333  nm
+O5'-C5'.Res71.NHP:
+  Number of samples:  8001
+  Average distance:   0.14523  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res72.NHP:
+  Number of samples:  8001
+  Average distance:   0.14493  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res73.NHP:
+  Number of samples:  8001
+  Average distance:   0.14512  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res74.NHP:
+  Number of samples:  8001
+  Average distance:   0.14470  nm
+  Standard deviation: 0.00324  nm
+O5'-C5'.Res75.NHP:
+  Number of samples:  8001
+  Average distance:   0.14465  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res76.NHP:
+  Number of samples:  8001
+  Average distance:   0.14455  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res77.NHP:
+  Number of samples:  8001
+  Average distance:   0.14447  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res78.NHP:
+  Number of samples:  8001
+  Average distance:   0.14444  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res79.NHP:
+  Number of samples:  8001
+  Average distance:   0.14440  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res80.NHP:
+  Number of samples:  8001
+  Average distance:   0.14432  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res81.NHP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res82.NHP:
+  Number of samples:  8001
+  Average distance:   0.14434  nm
+  Standard deviation: 0.00324  nm
+O5'-C5'.Res83.NHP:
+  Number of samples:  8001
+  Average distance:   0.14429  nm
+  Standard deviation: 0.00324  nm
+O5'-C5'.Res84.NHP:
+  Number of samples:  8001
+  Average distance:   0.14432  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res85.NHP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00324  nm
+O5'-C5'.Res86.NHP:
+  Number of samples:  8001
+  Average distance:   0.14439  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res87.NHP:
+  Number of samples:  8001
+  Average distance:   0.14420  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res88.NHP:
+  Number of samples:  8001
+  Average distance:   0.14423  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res89.NHP:
+  Number of samples:  8001
+  Average distance:   0.14424  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res90.NHP:
+  Number of samples:  8001
+  Average distance:   0.14423  nm
+  Standard deviation: 0.00317  nm
+O5'-C5'.Res91.NHP:
+  Number of samples:  8001
+  Average distance:   0.14433  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res92.NHP:
+  Number of samples:  8001
+  Average distance:   0.14486  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res93.NHP:
+  Number of samples:  8001
+  Average distance:   0.14457  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res94.NHP:
+  Number of samples:  8001
+  Average distance:   0.14457  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res95.NHP:
+  Number of samples:  8001
+  Average distance:   0.14448  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res96.NHP:
+  Number of samples:  8001
+  Average distance:   0.14444  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res97.NHP:
+  Number of samples:  8001
+  Average distance:   0.14457  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res98.NHP:
+  Number of samples:  8001
+  Average distance:   0.14449  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res99.NHP:
+  Number of samples:  8001
+  Average distance:   0.14450  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res100.NHP:
+  Number of samples:  8001
+  Average distance:   0.14402  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res1.NHP:
+  Number of samples:  8001
+  Average distance:   0.15429  nm
+  Standard deviation: 0.00329  nm
+C5'-C4'.Res2.NHP:
+  Number of samples:  8001
+  Average distance:   0.15567  nm
+  Standard deviation: 0.00339  nm
+C5'-C4'.Res3.NHP:
+  Number of samples:  8001
+  Average distance:   0.15551  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res4.NHP:
+  Number of samples:  8001
+  Average distance:   0.15574  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res5.NHP:
+  Number of samples:  8001
+  Average distance:   0.15580  nm
+  Standard deviation: 0.00343  nm
+C5'-C4'.Res6.NHP:
+  Number of samples:  8001
+  Average distance:   0.15573  nm
+  Standard deviation: 0.00343  nm
+C5'-C4'.Res7.NHP:
+  Number of samples:  8001
+  Average distance:   0.15586  nm
+  Standard deviation: 0.00344  nm
+C5'-C4'.Res8.NHP:
+  Number of samples:  8001
+  Average distance:   0.15573  nm
+  Standard deviation: 0.00343  nm
+C5'-C4'.Res9.NHP:
+  Number of samples:  8001
+  Average distance:   0.15559  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res10.NHP:
+  Number of samples:  8001
+  Average distance:   0.15559  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res11.NHP:
+  Number of samples:  8001
+  Average distance:   0.15572  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res12.NHP:
+  Number of samples:  8001
+  Average distance:   0.15550  nm
+  Standard deviation: 0.00339  nm
+C5'-C4'.Res13.NHP:
+  Number of samples:  8001
+  Average distance:   0.15586  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res14.NHP:
+  Number of samples:  8001
+  Average distance:   0.15564  nm
+  Standard deviation: 0.00337  nm
+C5'-C4'.Res15.NHP:
+  Number of samples:  8001
+  Average distance:   0.15535  nm
+  Standard deviation: 0.00339  nm
+C5'-C4'.Res16.NHP:
+  Number of samples:  8001
+  Average distance:   0.15560  nm
+  Standard deviation: 0.00341  nm
+C5'-C4'.Res17.NHP:
+  Number of samples:  8001
+  Average distance:   0.15531  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res18.NHP:
+  Number of samples:  8001
+  Average distance:   0.15558  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res19.NHP:
+  Number of samples:  8001
+  Average distance:   0.15533  nm
+  Standard deviation: 0.00329  nm
+C5'-C4'.Res20.NHP:
+  Number of samples:  8001
+  Average distance:   0.15540  nm
+  Standard deviation: 0.00337  nm
+C5'-C4'.Res21.NHP:
+  Number of samples:  8001
+  Average distance:   0.15522  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res22.NHP:
+  Number of samples:  8001
+  Average distance:   0.15505  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res23.NHP:
+  Number of samples:  8001
+  Average distance:   0.15501  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res24.NHP:
+  Number of samples:  8001
+  Average distance:   0.15479  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res25.NHP:
+  Number of samples:  8001
+  Average distance:   0.15489  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res26.NHP:
+  Number of samples:  8001
+  Average distance:   0.15497  nm
+  Standard deviation: 0.00329  nm
+C5'-C4'.Res27.NHP:
+  Number of samples:  8001
+  Average distance:   0.15507  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res28.NHP:
+  Number of samples:  8001
+  Average distance:   0.15497  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res29.NHP:
+  Number of samples:  8001
+  Average distance:   0.15539  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res30.NHP:
+  Number of samples:  8001
+  Average distance:   0.15575  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res31.NHP:
+  Number of samples:  8001
+  Average distance:   0.15548  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res32.NHP:
+  Number of samples:  8001
+  Average distance:   0.15643  nm
+  Standard deviation: 0.00350  nm
+C5'-C4'.Res33.NHP:
+  Number of samples:  8001
+  Average distance:   0.15573  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res34.NHP:
+  Number of samples:  8001
+  Average distance:   0.15628  nm
+  Standard deviation: 0.00339  nm
+C5'-C4'.Res35.NHP:
+  Number of samples:  8001
+  Average distance:   0.15672  nm
+  Standard deviation: 0.00347  nm
+C5'-C4'.Res36.NHP:
+  Number of samples:  8001
+  Average distance:   0.15719  nm
+  Standard deviation: 0.00352  nm
+C5'-C4'.Res37.NHP:
+  Number of samples:  8001
+  Average distance:   0.15683  nm
+  Standard deviation: 0.00346  nm
+C5'-C4'.Res38.NHP:
+  Number of samples:  8001
+  Average distance:   0.15699  nm
+  Standard deviation: 0.00354  nm
+C5'-C4'.Res39.NHP:
+  Number of samples:  8001
+  Average distance:   0.15696  nm
+  Standard deviation: 0.00351  nm
+C5'-C4'.Res40.NHP:
+  Number of samples:  8001
+  Average distance:   0.15691  nm
+  Standard deviation: 0.00350  nm
+C5'-C4'.Res41.NHP:
+  Number of samples:  8001
+  Average distance:   0.15686  nm
+  Standard deviation: 0.00355  nm
+C5'-C4'.Res42.NHP:
+  Number of samples:  8001
+  Average distance:   0.15656  nm
+  Standard deviation: 0.00344  nm
+C5'-C4'.Res43.NHP:
+  Number of samples:  8001
+  Average distance:   0.15653  nm
+  Standard deviation: 0.00344  nm
+C5'-C4'.Res44.NHP:
+  Number of samples:  8001
+  Average distance:   0.15644  nm
+  Standard deviation: 0.00345  nm
+C5'-C4'.Res45.NHP:
+  Number of samples:  8001
+  Average distance:   0.15657  nm
+  Standard deviation: 0.00345  nm
+C5'-C4'.Res46.NHP:
+  Number of samples:  8001
+  Average distance:   0.15662  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res47.NHP:
+  Number of samples:  8001
+  Average distance:   0.15691  nm
+  Standard deviation: 0.00346  nm
+C5'-C4'.Res48.NHP:
+  Number of samples:  8001
+  Average distance:   0.15701  nm
+  Standard deviation: 0.00347  nm
+C5'-C4'.Res49.NHP:
+  Number of samples:  8001
+  Average distance:   0.15703  nm
+  Standard deviation: 0.00351  nm
+C5'-C4'.Res50.NHP:
+  Number of samples:  8001
+  Average distance:   0.15758  nm
+  Standard deviation: 0.00357  nm
+C5'-C4'.Res51.NHP:
+  Number of samples:  8001
+  Average distance:   0.15711  nm
+  Standard deviation: 0.00346  nm
+C5'-C4'.Res52.NHP:
+  Number of samples:  8001
+  Average distance:   0.15717  nm
+  Standard deviation: 0.00355  nm
+C5'-C4'.Res53.NHP:
+  Number of samples:  8001
+  Average distance:   0.15750  nm
+  Standard deviation: 0.00355  nm
+C5'-C4'.Res54.NHP:
+  Number of samples:  8001
+  Average distance:   0.15763  nm
+  Standard deviation: 0.00352  nm
+C5'-C4'.Res55.NHP:
+  Number of samples:  8001
+  Average distance:   0.15700  nm
+  Standard deviation: 0.00350  nm
+C5'-C4'.Res56.NHP:
+  Number of samples:  8001
+  Average distance:   0.15754  nm
+  Standard deviation: 0.00355  nm
+C5'-C4'.Res57.NHP:
+  Number of samples:  8001
+  Average distance:   0.15816  nm
+  Standard deviation: 0.00359  nm
+C5'-C4'.Res58.NHP:
+  Number of samples:  8001
+  Average distance:   0.15760  nm
+  Standard deviation: 0.00355  nm
+C5'-C4'.Res59.NHP:
+  Number of samples:  8001
+  Average distance:   0.15791  nm
+  Standard deviation: 0.00359  nm
+C5'-C4'.Res60.NHP:
+  Number of samples:  8001
+  Average distance:   0.15735  nm
+  Standard deviation: 0.00350  nm
+C5'-C4'.Res61.NHP:
+  Number of samples:  8001
+  Average distance:   0.15719  nm
+  Standard deviation: 0.00350  nm
+C5'-C4'.Res62.NHP:
+  Number of samples:  8001
+  Average distance:   0.15683  nm
+  Standard deviation: 0.00346  nm
+C5'-C4'.Res63.NHP:
+  Number of samples:  8001
+  Average distance:   0.15692  nm
+  Standard deviation: 0.00348  nm
+C5'-C4'.Res64.NHP:
+  Number of samples:  8001
+  Average distance:   0.15702  nm
+  Standard deviation: 0.00345  nm
+C5'-C4'.Res65.NHP:
+  Number of samples:  8001
+  Average distance:   0.15691  nm
+  Standard deviation: 0.00347  nm
+C5'-C4'.Res66.NHP:
+  Number of samples:  8001
+  Average distance:   0.15689  nm
+  Standard deviation: 0.00347  nm
+C5'-C4'.Res67.NHP:
+  Number of samples:  8001
+  Average distance:   0.15729  nm
+  Standard deviation: 0.00353  nm
+C5'-C4'.Res68.NHP:
+  Number of samples:  8001
+  Average distance:   0.15726  nm
+  Standard deviation: 0.00356  nm
+C5'-C4'.Res69.NHP:
+  Number of samples:  8001
+  Average distance:   0.15693  nm
+  Standard deviation: 0.00352  nm
+C5'-C4'.Res70.NHP:
+  Number of samples:  8001
+  Average distance:   0.15649  nm
+  Standard deviation: 0.00347  nm
+C5'-C4'.Res71.NHP:
+  Number of samples:  8001
+  Average distance:   0.15648  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res72.NHP:
+  Number of samples:  8001
+  Average distance:   0.15661  nm
+  Standard deviation: 0.00349  nm
+C5'-C4'.Res73.NHP:
+  Number of samples:  8001
+  Average distance:   0.15634  nm
+  Standard deviation: 0.00348  nm
+C5'-C4'.Res74.NHP:
+  Number of samples:  8001
+  Average distance:   0.15596  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res75.NHP:
+  Number of samples:  8001
+  Average distance:   0.15581  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res76.NHP:
+  Number of samples:  8001
+  Average distance:   0.15590  nm
+  Standard deviation: 0.00341  nm
+C5'-C4'.Res77.NHP:
+  Number of samples:  8001
+  Average distance:   0.15583  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res78.NHP:
+  Number of samples:  8001
+  Average distance:   0.15581  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res79.NHP:
+  Number of samples:  8001
+  Average distance:   0.15575  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res80.NHP:
+  Number of samples:  8001
+  Average distance:   0.15579  nm
+  Standard deviation: 0.00331  nm
+C5'-C4'.Res81.NHP:
+  Number of samples:  8001
+  Average distance:   0.15570  nm
+  Standard deviation: 0.00337  nm
+C5'-C4'.Res82.NHP:
+  Number of samples:  8001
+  Average distance:   0.15572  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res83.NHP:
+  Number of samples:  8001
+  Average distance:   0.15567  nm
+  Standard deviation: 0.00339  nm
+C5'-C4'.Res84.NHP:
+  Number of samples:  8001
+  Average distance:   0.15577  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res85.NHP:
+  Number of samples:  8001
+  Average distance:   0.15564  nm
+  Standard deviation: 0.00328  nm
+C5'-C4'.Res86.NHP:
+  Number of samples:  8001
+  Average distance:   0.15576  nm
+  Standard deviation: 0.00331  nm
+C5'-C4'.Res87.NHP:
+  Number of samples:  8001
+  Average distance:   0.15566  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res88.NHP:
+  Number of samples:  8001
+  Average distance:   0.15561  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res89.NHP:
+  Number of samples:  8001
+  Average distance:   0.15541  nm
+  Standard deviation: 0.00329  nm
+C5'-C4'.Res90.NHP:
+  Number of samples:  8001
+  Average distance:   0.15544  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res91.NHP:
+  Number of samples:  8001
+  Average distance:   0.15441  nm
+  Standard deviation: 0.00326  nm
+C5'-C4'.Res92.NHP:
+  Number of samples:  8001
+  Average distance:   0.15585  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res93.NHP:
+  Number of samples:  8001
+  Average distance:   0.15581  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res94.NHP:
+  Number of samples:  8001
+  Average distance:   0.15582  nm
+  Standard deviation: 0.00341  nm
+C5'-C4'.Res95.NHP:
+  Number of samples:  8001
+  Average distance:   0.15572  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res96.NHP:
+  Number of samples:  8001
+  Average distance:   0.15552  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res97.NHP:
+  Number of samples:  8001
+  Average distance:   0.15587  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res98.NHP:
+  Number of samples:  8001
+  Average distance:   0.15570  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res99.NHP:
+  Number of samples:  8001
+  Average distance:   0.15564  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res100.NHP:
+  Number of samples:  8001
+  Average distance:   0.15463  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res1.NHP:
+  Number of samples:  8001
+  Average distance:   0.15446  nm
+  Standard deviation: 0.00321  nm
+C4'-C3'.Res2.NHP:
+  Number of samples:  8001
+  Average distance:   0.15607  nm
+  Standard deviation: 0.00339  nm
+C4'-C3'.Res3.NHP:
+  Number of samples:  8001
+  Average distance:   0.15604  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res4.NHP:
+  Number of samples:  8001
+  Average distance:   0.15604  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res5.NHP:
+  Number of samples:  8001
+  Average distance:   0.15627  nm
+  Standard deviation: 0.00342  nm
+C4'-C3'.Res6.NHP:
+  Number of samples:  8001
+  Average distance:   0.15619  nm
+  Standard deviation: 0.00338  nm
+C4'-C3'.Res7.NHP:
+  Number of samples:  8001
+  Average distance:   0.15585  nm
+  Standard deviation: 0.00338  nm
+C4'-C3'.Res8.NHP:
+  Number of samples:  8001
+  Average distance:   0.15618  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res9.NHP:
+  Number of samples:  8001
+  Average distance:   0.15599  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res10.NHP:
+  Number of samples:  8001
+  Average distance:   0.15609  nm
+  Standard deviation: 0.00340  nm
+C4'-C3'.Res11.NHP:
+  Number of samples:  8001
+  Average distance:   0.15589  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res12.NHP:
+  Number of samples:  8001
+  Average distance:   0.15608  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res13.NHP:
+  Number of samples:  8001
+  Average distance:   0.15571  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res14.NHP:
+  Number of samples:  8001
+  Average distance:   0.15577  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res15.NHP:
+  Number of samples:  8001
+  Average distance:   0.15592  nm
+  Standard deviation: 0.00339  nm
+C4'-C3'.Res16.NHP:
+  Number of samples:  8001
+  Average distance:   0.15579  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res17.NHP:
+  Number of samples:  8001
+  Average distance:   0.15590  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res18.NHP:
+  Number of samples:  8001
+  Average distance:   0.15578  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res19.NHP:
+  Number of samples:  8001
+  Average distance:   0.15571  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res20.NHP:
+  Number of samples:  8001
+  Average distance:   0.15553  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res21.NHP:
+  Number of samples:  8001
+  Average distance:   0.15567  nm
+  Standard deviation: 0.00330  nm
+C4'-C3'.Res22.NHP:
+  Number of samples:  8001
+  Average distance:   0.15555  nm
+  Standard deviation: 0.00328  nm
+C4'-C3'.Res23.NHP:
+  Number of samples:  8001
+  Average distance:   0.15534  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res24.NHP:
+  Number of samples:  8001
+  Average distance:   0.15534  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res25.NHP:
+  Number of samples:  8001
+  Average distance:   0.15558  nm
+  Standard deviation: 0.00332  nm
+C4'-C3'.Res26.NHP:
+  Number of samples:  8001
+  Average distance:   0.15570  nm
+  Standard deviation: 0.00325  nm
+C4'-C3'.Res27.NHP:
+  Number of samples:  8001
+  Average distance:   0.15571  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res28.NHP:
+  Number of samples:  8001
+  Average distance:   0.15574  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res29.NHP:
+  Number of samples:  8001
+  Average distance:   0.15638  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res30.NHP:
+  Number of samples:  8001
+  Average distance:   0.15675  nm
+  Standard deviation: 0.00339  nm
+C4'-C3'.Res31.NHP:
+  Number of samples:  8001
+  Average distance:   0.15699  nm
+  Standard deviation: 0.00343  nm
+C4'-C3'.Res32.NHP:
+  Number of samples:  8001
+  Average distance:   0.15623  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res33.NHP:
+  Number of samples:  8001
+  Average distance:   0.15699  nm
+  Standard deviation: 0.00344  nm
+C4'-C3'.Res34.NHP:
+  Number of samples:  8001
+  Average distance:   0.15711  nm
+  Standard deviation: 0.00343  nm
+C4'-C3'.Res35.NHP:
+  Number of samples:  8001
+  Average distance:   0.15725  nm
+  Standard deviation: 0.00344  nm
+C4'-C3'.Res36.NHP:
+  Number of samples:  8001
+  Average distance:   0.15719  nm
+  Standard deviation: 0.00346  nm
+C4'-C3'.Res37.NHP:
+  Number of samples:  8001
+  Average distance:   0.15762  nm
+  Standard deviation: 0.00355  nm
+C4'-C3'.Res38.NHP:
+  Number of samples:  8001
+  Average distance:   0.15795  nm
+  Standard deviation: 0.00352  nm
+C4'-C3'.Res39.NHP:
+  Number of samples:  8001
+  Average distance:   0.15778  nm
+  Standard deviation: 0.00355  nm
+C4'-C3'.Res40.NHP:
+  Number of samples:  8001
+  Average distance:   0.15765  nm
+  Standard deviation: 0.00350  nm
+C4'-C3'.Res41.NHP:
+  Number of samples:  8001
+  Average distance:   0.15740  nm
+  Standard deviation: 0.00350  nm
+C4'-C3'.Res42.NHP:
+  Number of samples:  8001
+  Average distance:   0.15716  nm
+  Standard deviation: 0.00343  nm
+C4'-C3'.Res43.NHP:
+  Number of samples:  8001
+  Average distance:   0.15703  nm
+  Standard deviation: 0.00341  nm
+C4'-C3'.Res44.NHP:
+  Number of samples:  8001
+  Average distance:   0.15702  nm
+  Standard deviation: 0.00346  nm
+C4'-C3'.Res45.NHP:
+  Number of samples:  8001
+  Average distance:   0.15723  nm
+  Standard deviation: 0.00341  nm
+C4'-C3'.Res46.NHP:
+  Number of samples:  8001
+  Average distance:   0.15726  nm
+  Standard deviation: 0.00349  nm
+C4'-C3'.Res47.NHP:
+  Number of samples:  8001
+  Average distance:   0.15722  nm
+  Standard deviation: 0.00345  nm
+C4'-C3'.Res48.NHP:
+  Number of samples:  8001
+  Average distance:   0.15747  nm
+  Standard deviation: 0.00340  nm
+C4'-C3'.Res49.NHP:
+  Number of samples:  8001
+  Average distance:   0.15772  nm
+  Standard deviation: 0.00354  nm
+C4'-C3'.Res50.NHP:
+  Number of samples:  8001
+  Average distance:   0.15735  nm
+  Standard deviation: 0.00349  nm
+C4'-C3'.Res51.NHP:
+  Number of samples:  8001
+  Average distance:   0.15766  nm
+  Standard deviation: 0.00349  nm
+C4'-C3'.Res52.NHP:
+  Number of samples:  8001
+  Average distance:   0.15801  nm
+  Standard deviation: 0.00356  nm
+C4'-C3'.Res53.NHP:
+  Number of samples:  8001
+  Average distance:   0.15855  nm
+  Standard deviation: 0.00362  nm
+C4'-C3'.Res54.NHP:
+  Number of samples:  8001
+  Average distance:   0.15903  nm
+  Standard deviation: 0.00362  nm
+C4'-C3'.Res55.NHP:
+  Number of samples:  8001
+  Average distance:   0.15866  nm
+  Standard deviation: 0.00364  nm
+C4'-C3'.Res56.NHP:
+  Number of samples:  8001
+  Average distance:   0.15852  nm
+  Standard deviation: 0.00356  nm
+C4'-C3'.Res57.NHP:
+  Number of samples:  8001
+  Average distance:   0.15769  nm
+  Standard deviation: 0.00350  nm
+C4'-C3'.Res58.NHP:
+  Number of samples:  8001
+  Average distance:   0.15855  nm
+  Standard deviation: 0.00360  nm
+C4'-C3'.Res59.NHP:
+  Number of samples:  8001
+  Average distance:   0.15837  nm
+  Standard deviation: 0.00358  nm
+C4'-C3'.Res60.NHP:
+  Number of samples:  8001
+  Average distance:   0.15790  nm
+  Standard deviation: 0.00354  nm
+C4'-C3'.Res61.NHP:
+  Number of samples:  8001
+  Average distance:   0.15747  nm
+  Standard deviation: 0.00349  nm
+C4'-C3'.Res62.NHP:
+  Number of samples:  8001
+  Average distance:   0.15753  nm
+  Standard deviation: 0.00355  nm
+C4'-C3'.Res63.NHP:
+  Number of samples:  8001
+  Average distance:   0.15724  nm
+  Standard deviation: 0.00348  nm
+C4'-C3'.Res64.NHP:
+  Number of samples:  8001
+  Average distance:   0.15714  nm
+  Standard deviation: 0.00340  nm
+C4'-C3'.Res65.NHP:
+  Number of samples:  8001
+  Average distance:   0.15733  nm
+  Standard deviation: 0.00345  nm
+C4'-C3'.Res66.NHP:
+  Number of samples:  8001
+  Average distance:   0.15754  nm
+  Standard deviation: 0.00345  nm
+C4'-C3'.Res67.NHP:
+  Number of samples:  8001
+  Average distance:   0.15765  nm
+  Standard deviation: 0.00350  nm
+C4'-C3'.Res68.NHP:
+  Number of samples:  8001
+  Average distance:   0.15766  nm
+  Standard deviation: 0.00349  nm
+C4'-C3'.Res69.NHP:
+  Number of samples:  8001
+  Average distance:   0.15746  nm
+  Standard deviation: 0.00348  nm
+C4'-C3'.Res70.NHP:
+  Number of samples:  8001
+  Average distance:   0.15743  nm
+  Standard deviation: 0.00348  nm
+C4'-C3'.Res71.NHP:
+  Number of samples:  8001
+  Average distance:   0.15699  nm
+  Standard deviation: 0.00346  nm
+C4'-C3'.Res72.NHP:
+  Number of samples:  8001
+  Average distance:   0.15637  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res73.NHP:
+  Number of samples:  8001
+  Average distance:   0.15684  nm
+  Standard deviation: 0.00344  nm
+C4'-C3'.Res74.NHP:
+  Number of samples:  8001
+  Average distance:   0.15649  nm
+  Standard deviation: 0.00339  nm
+C4'-C3'.Res75.NHP:
+  Number of samples:  8001
+  Average distance:   0.15641  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res76.NHP:
+  Number of samples:  8001
+  Average distance:   0.15610  nm
+  Standard deviation: 0.00334  nm
+C4'-C3'.Res77.NHP:
+  Number of samples:  8001
+  Average distance:   0.15626  nm
+  Standard deviation: 0.00334  nm
+C4'-C3'.Res78.NHP:
+  Number of samples:  8001
+  Average distance:   0.15609  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res79.NHP:
+  Number of samples:  8001
+  Average distance:   0.15608  nm
+  Standard deviation: 0.00332  nm
+C4'-C3'.Res80.NHP:
+  Number of samples:  8001
+  Average distance:   0.15581  nm
+  Standard deviation: 0.00329  nm
+C4'-C3'.Res81.NHP:
+  Number of samples:  8001
+  Average distance:   0.15602  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res82.NHP:
+  Number of samples:  8001
+  Average distance:   0.15607  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res83.NHP:
+  Number of samples:  8001
+  Average distance:   0.15606  nm
+  Standard deviation: 0.00327  nm
+C4'-C3'.Res84.NHP:
+  Number of samples:  8001
+  Average distance:   0.15586  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res85.NHP:
+  Number of samples:  8001
+  Average distance:   0.15593  nm
+  Standard deviation: 0.00334  nm
+C4'-C3'.Res86.NHP:
+  Number of samples:  8001
+  Average distance:   0.15591  nm
+  Standard deviation: 0.00329  nm
+C4'-C3'.Res87.NHP:
+  Number of samples:  8001
+  Average distance:   0.15585  nm
+  Standard deviation: 0.00330  nm
+C4'-C3'.Res88.NHP:
+  Number of samples:  8001
+  Average distance:   0.15581  nm
+  Standard deviation: 0.00325  nm
+C4'-C3'.Res89.NHP:
+  Number of samples:  8001
+  Average distance:   0.15586  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res90.NHP:
+  Number of samples:  8001
+  Average distance:   0.15592  nm
+  Standard deviation: 0.00332  nm
+C4'-C3'.Res91.NHP:
+  Number of samples:  8001
+  Average distance:   0.15594  nm
+  Standard deviation: 0.00332  nm
+C4'-C3'.Res92.NHP:
+  Number of samples:  8001
+  Average distance:   0.15648  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res93.NHP:
+  Number of samples:  8001
+  Average distance:   0.15623  nm
+  Standard deviation: 0.00334  nm
+C4'-C3'.Res94.NHP:
+  Number of samples:  8001
+  Average distance:   0.15612  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res95.NHP:
+  Number of samples:  8001
+  Average distance:   0.15620  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res96.NHP:
+  Number of samples:  8001
+  Average distance:   0.15615  nm
+  Standard deviation: 0.00332  nm
+C4'-C3'.Res97.NHP:
+  Number of samples:  8001
+  Average distance:   0.15618  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res98.NHP:
+  Number of samples:  8001
+  Average distance:   0.15616  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res99.NHP:
+  Number of samples:  8001
+  Average distance:   0.15643  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res100.NHP:
+  Number of samples:  8001
+  Average distance:   0.15451  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res1.NHP:
+  Number of samples:  8001
+  Average distance:   0.14421  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res2.NHP:
+  Number of samples:  8001
+  Average distance:   0.14415  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res3.NHP:
+  Number of samples:  8001
+  Average distance:   0.14422  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res4.NHP:
+  Number of samples:  8001
+  Average distance:   0.14433  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res5.NHP:
+  Number of samples:  8001
+  Average distance:   0.14442  nm
+  Standard deviation: 0.00331  nm
+C3'-O3'.Res6.NHP:
+  Number of samples:  8001
+  Average distance:   0.14435  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res7.NHP:
+  Number of samples:  8001
+  Average distance:   0.14453  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res8.NHP:
+  Number of samples:  8001
+  Average distance:   0.14436  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res9.NHP:
+  Number of samples:  8001
+  Average distance:   0.14411  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res10.NHP:
+  Number of samples:  8001
+  Average distance:   0.14418  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res11.NHP:
+  Number of samples:  8001
+  Average distance:   0.14412  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res12.NHP:
+  Number of samples:  8001
+  Average distance:   0.14425  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res13.NHP:
+  Number of samples:  8001
+  Average distance:   0.14407  nm
+  Standard deviation: 0.00330  nm
+C3'-O3'.Res14.NHP:
+  Number of samples:  8001
+  Average distance:   0.14395  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res15.NHP:
+  Number of samples:  8001
+  Average distance:   0.14411  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res16.NHP:
+  Number of samples:  8001
+  Average distance:   0.14404  nm
+  Standard deviation: 0.00326  nm
+C3'-O3'.Res17.NHP:
+  Number of samples:  8001
+  Average distance:   0.14403  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res18.NHP:
+  Number of samples:  8001
+  Average distance:   0.14405  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res19.NHP:
+  Number of samples:  8001
+  Average distance:   0.14390  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res20.NHP:
+  Number of samples:  8001
+  Average distance:   0.14386  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res21.NHP:
+  Number of samples:  8001
+  Average distance:   0.14383  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res22.NHP:
+  Number of samples:  8001
+  Average distance:   0.14368  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res23.NHP:
+  Number of samples:  8001
+  Average distance:   0.14350  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res24.NHP:
+  Number of samples:  8001
+  Average distance:   0.14335  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res25.NHP:
+  Number of samples:  8001
+  Average distance:   0.14350  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res26.NHP:
+  Number of samples:  8001
+  Average distance:   0.14386  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res27.NHP:
+  Number of samples:  8001
+  Average distance:   0.14361  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res28.NHP:
+  Number of samples:  8001
+  Average distance:   0.14359  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res29.NHP:
+  Number of samples:  8001
+  Average distance:   0.14399  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res30.NHP:
+  Number of samples:  8001
+  Average distance:   0.14467  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res31.NHP:
+  Number of samples:  8001
+  Average distance:   0.14430  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res32.NHP:
+  Number of samples:  8001
+  Average distance:   0.14462  nm
+  Standard deviation: 0.00329  nm
+C3'-O3'.Res33.NHP:
+  Number of samples:  8001
+  Average distance:   0.14472  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res34.NHP:
+  Number of samples:  8001
+  Average distance:   0.14499  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res35.NHP:
+  Number of samples:  8001
+  Average distance:   0.14535  nm
+  Standard deviation: 0.00337  nm
+C3'-O3'.Res36.NHP:
+  Number of samples:  8001
+  Average distance:   0.14565  nm
+  Standard deviation: 0.00334  nm
+C3'-O3'.Res37.NHP:
+  Number of samples:  8001
+  Average distance:   0.14571  nm
+  Standard deviation: 0.00336  nm
+C3'-O3'.Res38.NHP:
+  Number of samples:  8001
+  Average distance:   0.14545  nm
+  Standard deviation: 0.00333  nm
+C3'-O3'.Res39.NHP:
+  Number of samples:  8001
+  Average distance:   0.14546  nm
+  Standard deviation: 0.00334  nm
+C3'-O3'.Res40.NHP:
+  Number of samples:  8001
+  Average distance:   0.14541  nm
+  Standard deviation: 0.00333  nm
+C3'-O3'.Res41.NHP:
+  Number of samples:  8001
+  Average distance:   0.14527  nm
+  Standard deviation: 0.00329  nm
+C3'-O3'.Res42.NHP:
+  Number of samples:  8001
+  Average distance:   0.14510  nm
+  Standard deviation: 0.00326  nm
+C3'-O3'.Res43.NHP:
+  Number of samples:  8001
+  Average distance:   0.14505  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res44.NHP:
+  Number of samples:  8001
+  Average distance:   0.14518  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res45.NHP:
+  Number of samples:  8001
+  Average distance:   0.14522  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res46.NHP:
+  Number of samples:  8001
+  Average distance:   0.14526  nm
+  Standard deviation: 0.00331  nm
+C3'-O3'.Res47.NHP:
+  Number of samples:  8001
+  Average distance:   0.14546  nm
+  Standard deviation: 0.00333  nm
+C3'-O3'.Res48.NHP:
+  Number of samples:  8001
+  Average distance:   0.14568  nm
+  Standard deviation: 0.00337  nm
+C3'-O3'.Res49.NHP:
+  Number of samples:  8001
+  Average distance:   0.14587  nm
+  Standard deviation: 0.00335  nm
+C3'-O3'.Res50.NHP:
+  Number of samples:  8001
+  Average distance:   0.14556  nm
+  Standard deviation: 0.00329  nm
+C3'-O3'.Res51.NHP:
+  Number of samples:  8001
+  Average distance:   0.14553  nm
+  Standard deviation: 0.00337  nm
+C3'-O3'.Res52.NHP:
+  Number of samples:  8001
+  Average distance:   0.14588  nm
+  Standard deviation: 0.00333  nm
+C3'-O3'.Res53.NHP:
+  Number of samples:  8001
+  Average distance:   0.14634  nm
+  Standard deviation: 0.00341  nm
+C3'-O3'.Res54.NHP:
+  Number of samples:  8001
+  Average distance:   0.14663  nm
+  Standard deviation: 0.00336  nm
+C3'-O3'.Res55.NHP:
+  Number of samples:  8001
+  Average distance:   0.14576  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res56.NHP:
+  Number of samples:  8001
+  Average distance:   0.14626  nm
+  Standard deviation: 0.00335  nm
+C3'-O3'.Res57.NHP:
+  Number of samples:  8001
+  Average distance:   0.14620  nm
+  Standard deviation: 0.00336  nm
+C3'-O3'.Res58.NHP:
+  Number of samples:  8001
+  Average distance:   0.14657  nm
+  Standard deviation: 0.00340  nm
+C3'-O3'.Res59.NHP:
+  Number of samples:  8001
+  Average distance:   0.14606  nm
+  Standard deviation: 0.00335  nm
+C3'-O3'.Res60.NHP:
+  Number of samples:  8001
+  Average distance:   0.14568  nm
+  Standard deviation: 0.00334  nm
+C3'-O3'.Res61.NHP:
+  Number of samples:  8001
+  Average distance:   0.14551  nm
+  Standard deviation: 0.00332  nm
+C3'-O3'.Res62.NHP:
+  Number of samples:  8001
+  Average distance:   0.14545  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res63.NHP:
+  Number of samples:  8001
+  Average distance:   0.14543  nm
+  Standard deviation: 0.00332  nm
+C3'-O3'.Res64.NHP:
+  Number of samples:  8001
+  Average distance:   0.14545  nm
+  Standard deviation: 0.00331  nm
+C3'-O3'.Res65.NHP:
+  Number of samples:  8001
+  Average distance:   0.14542  nm
+  Standard deviation: 0.00329  nm
+C3'-O3'.Res66.NHP:
+  Number of samples:  8001
+  Average distance:   0.14577  nm
+  Standard deviation: 0.00336  nm
+C3'-O3'.Res67.NHP:
+  Number of samples:  8001
+  Average distance:   0.14592  nm
+  Standard deviation: 0.00332  nm
+C3'-O3'.Res68.NHP:
+  Number of samples:  8001
+  Average distance:   0.14548  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res69.NHP:
+  Number of samples:  8001
+  Average distance:   0.14549  nm
+  Standard deviation: 0.00331  nm
+C3'-O3'.Res70.NHP:
+  Number of samples:  8001
+  Average distance:   0.14501  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res71.NHP:
+  Number of samples:  8001
+  Average distance:   0.14483  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res72.NHP:
+  Number of samples:  8001
+  Average distance:   0.14540  nm
+  Standard deviation: 0.00341  nm
+C3'-O3'.Res73.NHP:
+  Number of samples:  8001
+  Average distance:   0.14459  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res74.NHP:
+  Number of samples:  8001
+  Average distance:   0.14441  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res75.NHP:
+  Number of samples:  8001
+  Average distance:   0.14444  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res76.NHP:
+  Number of samples:  8001
+  Average distance:   0.14436  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res77.NHP:
+  Number of samples:  8001
+  Average distance:   0.14430  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res78.NHP:
+  Number of samples:  8001
+  Average distance:   0.14429  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res79.NHP:
+  Number of samples:  8001
+  Average distance:   0.14430  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res80.NHP:
+  Number of samples:  8001
+  Average distance:   0.14423  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res81.NHP:
+  Number of samples:  8001
+  Average distance:   0.14417  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res82.NHP:
+  Number of samples:  8001
+  Average distance:   0.14430  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res83.NHP:
+  Number of samples:  8001
+  Average distance:   0.14432  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res84.NHP:
+  Number of samples:  8001
+  Average distance:   0.14414  nm
+  Standard deviation: 0.00322  nm
+C3'-O3'.Res85.NHP:
+  Number of samples:  8001
+  Average distance:   0.14423  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res86.NHP:
+  Number of samples:  8001
+  Average distance:   0.14433  nm
+  Standard deviation: 0.00322  nm
+C3'-O3'.Res87.NHP:
+  Number of samples:  8001
+  Average distance:   0.14407  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res88.NHP:
+  Number of samples:  8001
+  Average distance:   0.14409  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res89.NHP:
+  Number of samples:  8001
+  Average distance:   0.14408  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res90.NHP:
+  Number of samples:  8001
+  Average distance:   0.14391  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res91.NHP:
+  Number of samples:  8001
+  Average distance:   0.14345  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res92.NHP:
+  Number of samples:  8001
+  Average distance:   0.14438  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res93.NHP:
+  Number of samples:  8001
+  Average distance:   0.14443  nm
+  Standard deviation: 0.00326  nm
+C3'-O3'.Res94.NHP:
+  Number of samples:  8001
+  Average distance:   0.14437  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res95.NHP:
+  Number of samples:  8001
+  Average distance:   0.14424  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res96.NHP:
+  Number of samples:  8001
+  Average distance:   0.14427  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res97.NHP:
+  Number of samples:  8001
+  Average distance:   0.14435  nm
+  Standard deviation: 0.00326  nm
+C3'-O3'.Res98.NHP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res99.NHP:
+  Number of samples:  8001
+  Average distance:   0.14451  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res100.NHP:
+  Number of samples:  8001
+  Average distance:   0.14237  nm
+  Standard deviation: 0.00318  nm
+O3'-P.Res1.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16207  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res2.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16233  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res3.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16234  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res4.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16250  nm
+  Standard deviation: 0.00370  nm
+O3'-P.Res5.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16249  nm
+  Standard deviation: 0.00370  nm
+O3'-P.Res6.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16256  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res7.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16211  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res8.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16216  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res9.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16238  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res10.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16247  nm
+  Standard deviation: 0.00376  nm
+O3'-P.Res11.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16209  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res12.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16244  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res13.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16210  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res14.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16211  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res15.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16229  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res16.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16176  nm
+  Standard deviation: 0.00361  nm
+O3'-P.Res17.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16236  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res18.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16175  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res19.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16196  nm
+  Standard deviation: 0.00367  nm
+O3'-P.Res20.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16185  nm
+  Standard deviation: 0.00365  nm
+O3'-P.Res21.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16143  nm
+  Standard deviation: 0.00365  nm
+O3'-P.Res22.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16166  nm
+  Standard deviation: 0.00367  nm
+O3'-P.Res23.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16169  nm
+  Standard deviation: 0.00364  nm
+O3'-P.Res24.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16178  nm
+  Standard deviation: 0.00361  nm
+O3'-P.Res25.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16179  nm
+  Standard deviation: 0.00362  nm
+O3'-P.Res26.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16177  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res27.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16204  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res28.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16209  nm
+  Standard deviation: 0.00364  nm
+O3'-P.Res29.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16223  nm
+  Standard deviation: 0.00365  nm
+O3'-P.Res30.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16264  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res31.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16342  nm
+  Standard deviation: 0.00375  nm
+O3'-P.Res32.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16290  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res33.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16322  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res34.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16347  nm
+  Standard deviation: 0.00377  nm
+O3'-P.Res35.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16379  nm
+  Standard deviation: 0.00382  nm
+O3'-P.Res36.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16362  nm
+  Standard deviation: 0.00381  nm
+O3'-P.Res37.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16415  nm
+  Standard deviation: 0.00385  nm
+O3'-P.Res38.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16419  nm
+  Standard deviation: 0.00388  nm
+O3'-P.Res39.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16399  nm
+  Standard deviation: 0.00385  nm
+O3'-P.Res40.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16387  nm
+  Standard deviation: 0.00380  nm
+O3'-P.Res41.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16384  nm
+  Standard deviation: 0.00390  nm
+O3'-P.Res42.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16348  nm
+  Standard deviation: 0.00381  nm
+O3'-P.Res43.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16332  nm
+  Standard deviation: 0.00381  nm
+O3'-P.Res44.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16352  nm
+  Standard deviation: 0.00382  nm
+O3'-P.Res45.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16366  nm
+  Standard deviation: 0.00377  nm
+O3'-P.Res46.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16386  nm
+  Standard deviation: 0.00381  nm
+O3'-P.Res47.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16390  nm
+  Standard deviation: 0.00379  nm
+O3'-P.Res48.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16413  nm
+  Standard deviation: 0.00388  nm
+O3'-P.Res49.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16434  nm
+  Standard deviation: 0.00386  nm
+O3'-P.Res50.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16414  nm
+  Standard deviation: 0.00386  nm
+O3'-P.Res51.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16401  nm
+  Standard deviation: 0.00380  nm
+O3'-P.Res52.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16439  nm
+  Standard deviation: 0.00390  nm
+O3'-P.Res53.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16527  nm
+  Standard deviation: 0.00396  nm
+O3'-P.Res54.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16483  nm
+  Standard deviation: 0.00391  nm
+O3'-P.Res55.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16505  nm
+  Standard deviation: 0.00391  nm
+O3'-P.Res56.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16517  nm
+  Standard deviation: 0.00393  nm
+O3'-P.Res57.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16472  nm
+  Standard deviation: 0.00393  nm
+O3'-P.Res58.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16539  nm
+  Standard deviation: 0.00404  nm
+O3'-P.Res59.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16459  nm
+  Standard deviation: 0.00389  nm
+O3'-P.Res60.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16425  nm
+  Standard deviation: 0.00383  nm
+O3'-P.Res61.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16401  nm
+  Standard deviation: 0.00386  nm
+O3'-P.Res62.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16388  nm
+  Standard deviation: 0.00381  nm
+O3'-P.Res63.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16382  nm
+  Standard deviation: 0.00379  nm
+O3'-P.Res64.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16389  nm
+  Standard deviation: 0.00383  nm
+O3'-P.Res65.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16391  nm
+  Standard deviation: 0.00384  nm
+O3'-P.Res66.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16425  nm
+  Standard deviation: 0.00389  nm
+O3'-P.Res67.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16452  nm
+  Standard deviation: 0.00395  nm
+O3'-P.Res68.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16392  nm
+  Standard deviation: 0.00378  nm
+O3'-P.Res69.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16363  nm
+  Standard deviation: 0.00382  nm
+O3'-P.Res70.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16345  nm
+  Standard deviation: 0.00380  nm
+O3'-P.Res71.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16317  nm
+  Standard deviation: 0.00373  nm
+O3'-P.Res72.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16338  nm
+  Standard deviation: 0.00378  nm
+O3'-P.Res73.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16292  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res74.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16264  nm
+  Standard deviation: 0.00373  nm
+O3'-P.Res75.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16254  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res76.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16262  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res77.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16252  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res78.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16236  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res79.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16215  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res80.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16220  nm
+  Standard deviation: 0.00361  nm
+O3'-P.Res81.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16244  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res82.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16223  nm
+  Standard deviation: 0.00360  nm
+O3'-P.Res83.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16229  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res84.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16228  nm
+  Standard deviation: 0.00365  nm
+O3'-P.Res85.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16243  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res86.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16206  nm
+  Standard deviation: 0.00362  nm
+O3'-P.Res87.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16227  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res88.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16214  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res89.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16207  nm
+  Standard deviation: 0.00361  nm
+O3'-P.Res90.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16234  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res91.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16252  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res92.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16264  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res93.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16259  nm
+  Standard deviation: 0.00370  nm
+O3'-P.Res94.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16246  nm
+  Standard deviation: 0.00370  nm
+O3'-P.Res95.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16218  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res96.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16250  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res97.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16241  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res98.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16237  nm
+  Standard deviation: 0.00367  nm
+O3'-P.Res99.5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16283  nm
+  Standard deviation: 0.00379  nm
+P-O5'.Res2.NHP:
+  Number of samples:  8001
+  Average distance:   0.16238  nm
+  Standard deviation: 0.00374  nm
+P-O5'.Res3.NHP:
+  Number of samples:  8001
+  Average distance:   0.16215  nm
+  Standard deviation: 0.00369  nm
+P-O5'.Res4.NHP:
+  Number of samples:  8001
+  Average distance:   0.16246  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res5.NHP:
+  Number of samples:  8001
+  Average distance:   0.16247  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res6.NHP:
+  Number of samples:  8001
+  Average distance:   0.16243  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res7.NHP:
+  Number of samples:  8001
+  Average distance:   0.16254  nm
+  Standard deviation: 0.00377  nm
+P-O5'.Res8.NHP:
+  Number of samples:  8001
+  Average distance:   0.16247  nm
+  Standard deviation: 0.00369  nm
+P-O5'.Res9.NHP:
+  Number of samples:  8001
+  Average distance:   0.16251  nm
+  Standard deviation: 0.00371  nm
+P-O5'.Res10.NHP:
+  Number of samples:  8001
+  Average distance:   0.16215  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res11.NHP:
+  Number of samples:  8001
+  Average distance:   0.16235  nm
+  Standard deviation: 0.00362  nm
+P-O5'.Res12.NHP:
+  Number of samples:  8001
+  Average distance:   0.16211  nm
+  Standard deviation: 0.00362  nm
+P-O5'.Res13.NHP:
+  Number of samples:  8001
+  Average distance:   0.16244  nm
+  Standard deviation: 0.00364  nm
+P-O5'.Res14.NHP:
+  Number of samples:  8001
+  Average distance:   0.16230  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res15.NHP:
+  Number of samples:  8001
+  Average distance:   0.16209  nm
+  Standard deviation: 0.00364  nm
+P-O5'.Res16.NHP:
+  Number of samples:  8001
+  Average distance:   0.16221  nm
+  Standard deviation: 0.00370  nm
+P-O5'.Res17.NHP:
+  Number of samples:  8001
+  Average distance:   0.16204  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res18.NHP:
+  Number of samples:  8001
+  Average distance:   0.16216  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res19.NHP:
+  Number of samples:  8001
+  Average distance:   0.16206  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res20.NHP:
+  Number of samples:  8001
+  Average distance:   0.16196  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res21.NHP:
+  Number of samples:  8001
+  Average distance:   0.16192  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res22.NHP:
+  Number of samples:  8001
+  Average distance:   0.16168  nm
+  Standard deviation: 0.00360  nm
+P-O5'.Res23.NHP:
+  Number of samples:  8001
+  Average distance:   0.16177  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res24.NHP:
+  Number of samples:  8001
+  Average distance:   0.16136  nm
+  Standard deviation: 0.00360  nm
+P-O5'.Res25.NHP:
+  Number of samples:  8001
+  Average distance:   0.16160  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res26.NHP:
+  Number of samples:  8001
+  Average distance:   0.16176  nm
+  Standard deviation: 0.00370  nm
+P-O5'.Res27.NHP:
+  Number of samples:  8001
+  Average distance:   0.16159  nm
+  Standard deviation: 0.00360  nm
+P-O5'.Res28.NHP:
+  Number of samples:  8001
+  Average distance:   0.16152  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res29.NHP:
+  Number of samples:  8001
+  Average distance:   0.16161  nm
+  Standard deviation: 0.00362  nm
+P-O5'.Res30.NHP:
+  Number of samples:  8001
+  Average distance:   0.16181  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res31.NHP:
+  Number of samples:  8001
+  Average distance:   0.16175  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res32.NHP:
+  Number of samples:  8001
+  Average distance:   0.16270  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res33.NHP:
+  Number of samples:  8001
+  Average distance:   0.16251  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res34.NHP:
+  Number of samples:  8001
+  Average distance:   0.16316  nm
+  Standard deviation: 0.00370  nm
+P-O5'.Res35.NHP:
+  Number of samples:  8001
+  Average distance:   0.16319  nm
+  Standard deviation: 0.00383  nm
+P-O5'.Res36.NHP:
+  Number of samples:  8001
+  Average distance:   0.16392  nm
+  Standard deviation: 0.00382  nm
+P-O5'.Res37.NHP:
+  Number of samples:  8001
+  Average distance:   0.16414  nm
+  Standard deviation: 0.00390  nm
+P-O5'.Res38.NHP:
+  Number of samples:  8001
+  Average distance:   0.16423  nm
+  Standard deviation: 0.00390  nm
+P-O5'.Res39.NHP:
+  Number of samples:  8001
+  Average distance:   0.16404  nm
+  Standard deviation: 0.00389  nm
+P-O5'.Res40.NHP:
+  Number of samples:  8001
+  Average distance:   0.16385  nm
+  Standard deviation: 0.00380  nm
+P-O5'.Res41.NHP:
+  Number of samples:  8001
+  Average distance:   0.16389  nm
+  Standard deviation: 0.00385  nm
+P-O5'.Res42.NHP:
+  Number of samples:  8001
+  Average distance:   0.16360  nm
+  Standard deviation: 0.00381  nm
+P-O5'.Res43.NHP:
+  Number of samples:  8001
+  Average distance:   0.16358  nm
+  Standard deviation: 0.00376  nm
+P-O5'.Res44.NHP:
+  Number of samples:  8001
+  Average distance:   0.16342  nm
+  Standard deviation: 0.00382  nm
+P-O5'.Res45.NHP:
+  Number of samples:  8001
+  Average distance:   0.16362  nm
+  Standard deviation: 0.00377  nm
+P-O5'.Res46.NHP:
+  Number of samples:  8001
+  Average distance:   0.16357  nm
+  Standard deviation: 0.00380  nm
+P-O5'.Res47.NHP:
+  Number of samples:  8001
+  Average distance:   0.16389  nm
+  Standard deviation: 0.00376  nm
+P-O5'.Res48.NHP:
+  Number of samples:  8001
+  Average distance:   0.16397  nm
+  Standard deviation: 0.00387  nm
+P-O5'.Res49.NHP:
+  Number of samples:  8001
+  Average distance:   0.16410  nm
+  Standard deviation: 0.00386  nm
+P-O5'.Res50.NHP:
+  Number of samples:  8001
+  Average distance:   0.16460  nm
+  Standard deviation: 0.00391  nm
+P-O5'.Res51.NHP:
+  Number of samples:  8001
+  Average distance:   0.16419  nm
+  Standard deviation: 0.00389  nm
+P-O5'.Res52.NHP:
+  Number of samples:  8001
+  Average distance:   0.16384  nm
+  Standard deviation: 0.00382  nm
+P-O5'.Res53.NHP:
+  Number of samples:  8001
+  Average distance:   0.16407  nm
+  Standard deviation: 0.00383  nm
+P-O5'.Res54.NHP:
+  Number of samples:  8001
+  Average distance:   0.16486  nm
+  Standard deviation: 0.00392  nm
+P-O5'.Res55.NHP:
+  Number of samples:  8001
+  Average distance:   0.16434  nm
+  Standard deviation: 0.00387  nm
+P-O5'.Res56.NHP:
+  Number of samples:  8001
+  Average distance:   0.16473  nm
+  Standard deviation: 0.00387  nm
+P-O5'.Res57.NHP:
+  Number of samples:  8001
+  Average distance:   0.16505  nm
+  Standard deviation: 0.00390  nm
+P-O5'.Res58.NHP:
+  Number of samples:  8001
+  Average distance:   0.16468  nm
+  Standard deviation: 0.00389  nm
+P-O5'.Res59.NHP:
+  Number of samples:  8001
+  Average distance:   0.16546  nm
+  Standard deviation: 0.00397  nm
+P-O5'.Res60.NHP:
+  Number of samples:  8001
+  Average distance:   0.16467  nm
+  Standard deviation: 0.00392  nm
+P-O5'.Res61.NHP:
+  Number of samples:  8001
+  Average distance:   0.16423  nm
+  Standard deviation: 0.00384  nm
+P-O5'.Res62.NHP:
+  Number of samples:  8001
+  Average distance:   0.16396  nm
+  Standard deviation: 0.00380  nm
+P-O5'.Res63.NHP:
+  Number of samples:  8001
+  Average distance:   0.16393  nm
+  Standard deviation: 0.00381  nm
+P-O5'.Res64.NHP:
+  Number of samples:  8001
+  Average distance:   0.16388  nm
+  Standard deviation: 0.00381  nm
+P-O5'.Res65.NHP:
+  Number of samples:  8001
+  Average distance:   0.16396  nm
+  Standard deviation: 0.00376  nm
+P-O5'.Res66.NHP:
+  Number of samples:  8001
+  Average distance:   0.16379  nm
+  Standard deviation: 0.00384  nm
+P-O5'.Res67.NHP:
+  Number of samples:  8001
+  Average distance:   0.16432  nm
+  Standard deviation: 0.00381  nm
+P-O5'.Res68.NHP:
+  Number of samples:  8001
+  Average distance:   0.16452  nm
+  Standard deviation: 0.00389  nm
+P-O5'.Res69.NHP:
+  Number of samples:  8001
+  Average distance:   0.16405  nm
+  Standard deviation: 0.00383  nm
+P-O5'.Res70.NHP:
+  Number of samples:  8001
+  Average distance:   0.16360  nm
+  Standard deviation: 0.00377  nm
+P-O5'.Res71.NHP:
+  Number of samples:  8001
+  Average distance:   0.16359  nm
+  Standard deviation: 0.00378  nm
+P-O5'.Res72.NHP:
+  Number of samples:  8001
+  Average distance:   0.16309  nm
+  Standard deviation: 0.00376  nm
+P-O5'.Res73.NHP:
+  Number of samples:  8001
+  Average distance:   0.16319  nm
+  Standard deviation: 0.00380  nm
+P-O5'.Res74.NHP:
+  Number of samples:  8001
+  Average distance:   0.16279  nm
+  Standard deviation: 0.00376  nm
+P-O5'.Res75.NHP:
+  Number of samples:  8001
+  Average distance:   0.16260  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res76.NHP:
+  Number of samples:  8001
+  Average distance:   0.16267  nm
+  Standard deviation: 0.00371  nm
+P-O5'.Res77.NHP:
+  Number of samples:  8001
+  Average distance:   0.16259  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res78.NHP:
+  Number of samples:  8001
+  Average distance:   0.16238  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res79.NHP:
+  Number of samples:  8001
+  Average distance:   0.16232  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res80.NHP:
+  Number of samples:  8001
+  Average distance:   0.16244  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res81.NHP:
+  Number of samples:  8001
+  Average distance:   0.16240  nm
+  Standard deviation: 0.00375  nm
+P-O5'.Res82.NHP:
+  Number of samples:  8001
+  Average distance:   0.16228  nm
+  Standard deviation: 0.00363  nm
+P-O5'.Res83.NHP:
+  Number of samples:  8001
+  Average distance:   0.16227  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res84.NHP:
+  Number of samples:  8001
+  Average distance:   0.16248  nm
+  Standard deviation: 0.00371  nm
+P-O5'.Res85.NHP:
+  Number of samples:  8001
+  Average distance:   0.16247  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res86.NHP:
+  Number of samples:  8001
+  Average distance:   0.16234  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res87.NHP:
+  Number of samples:  8001
+  Average distance:   0.16241  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res88.NHP:
+  Number of samples:  8001
+  Average distance:   0.16226  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res89.NHP:
+  Number of samples:  8001
+  Average distance:   0.16214  nm
+  Standard deviation: 0.00363  nm
+P-O5'.Res90.NHP:
+  Number of samples:  8001
+  Average distance:   0.16212  nm
+  Standard deviation: 0.00371  nm
+P-O5'.Res91.NHP:
+  Number of samples:  8001
+  Average distance:   0.16133  nm
+  Standard deviation: 0.00358  nm
+P-O5'.Res92.NHP:
+  Number of samples:  8001
+  Average distance:   0.16295  nm
+  Standard deviation: 0.00370  nm
+P-O5'.Res93.NHP:
+  Number of samples:  8001
+  Average distance:   0.16252  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res94.NHP:
+  Number of samples:  8001
+  Average distance:   0.16258  nm
+  Standard deviation: 0.00370  nm
+P-O5'.Res95.NHP:
+  Number of samples:  8001
+  Average distance:   0.16236  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res96.NHP:
+  Number of samples:  8001
+  Average distance:   0.16226  nm
+  Standard deviation: 0.00373  nm
+P-O5'.Res97.NHP:
+  Number of samples:  8001
+  Average distance:   0.16253  nm
+  Standard deviation: 0.00374  nm
+P-O5'.Res98.NHP:
+  Number of samples:  8001
+  Average distance:   0.16230  nm
+  Standard deviation: 0.00374  nm
+P-O5'.Res99.NHP:
+  Number of samples:  8001
+  Average distance:   0.16230  nm
+  Standard deviation: 0.00370  nm
+P-O5'.Res100.NHP:
+  Number of samples:  8001
+  Average distance:   0.16178  nm
+  Standard deviation: 0.00359  nm
+O5'-C5'.Res1.HP:
+  Number of samples:  8001
+  Average distance:   0.14256  nm
+  Standard deviation: 0.00314  nm
+O5'-C5'.Res2.HP:
+  Number of samples:  8001
+  Average distance:   0.14425  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res3.HP:
+  Number of samples:  8001
+  Average distance:   0.14418  nm
+  Standard deviation: 0.00319  nm
+O5'-C5'.Res4.HP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res5.HP:
+  Number of samples:  8001
+  Average distance:   0.14415  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res6.HP:
+  Number of samples:  8001
+  Average distance:   0.14422  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res7.HP:
+  Number of samples:  8001
+  Average distance:   0.14409  nm
+  Standard deviation: 0.00324  nm
+O5'-C5'.Res8.HP:
+  Number of samples:  8001
+  Average distance:   0.14409  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res9.HP:
+  Number of samples:  8001
+  Average distance:   0.14434  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res10.HP:
+  Number of samples:  8001
+  Average distance:   0.14482  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res11.HP:
+  Number of samples:  8001
+  Average distance:   0.14457  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res12.HP:
+  Number of samples:  8001
+  Average distance:   0.14451  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res13.HP:
+  Number of samples:  8001
+  Average distance:   0.14450  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res14.HP:
+  Number of samples:  8001
+  Average distance:   0.14447  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res15.HP:
+  Number of samples:  8001
+  Average distance:   0.14448  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res16.HP:
+  Number of samples:  8001
+  Average distance:   0.14440  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res17.HP:
+  Number of samples:  8001
+  Average distance:   0.14447  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res18.HP:
+  Number of samples:  8001
+  Average distance:   0.14439  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res19.HP:
+  Number of samples:  8001
+  Average distance:   0.14435  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res20.HP:
+  Number of samples:  8001
+  Average distance:   0.14439  nm
+  Standard deviation: 0.00315  nm
+O5'-C5'.Res21.HP:
+  Number of samples:  8001
+  Average distance:   0.14437  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res22.HP:
+  Number of samples:  8001
+  Average distance:   0.14431  nm
+  Standard deviation: 0.00320  nm
+O5'-C5'.Res23.HP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res24.HP:
+  Number of samples:  8001
+  Average distance:   0.14463  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res25.HP:
+  Number of samples:  8001
+  Average distance:   0.14439  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res26.HP:
+  Number of samples:  8001
+  Average distance:   0.14438  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res27.HP:
+  Number of samples:  8001
+  Average distance:   0.14383  nm
+  Standard deviation: 0.00318  nm
+O5'-C5'.Res28.HP:
+  Number of samples:  8001
+  Average distance:   0.14385  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res29.HP:
+  Number of samples:  8001
+  Average distance:   0.14358  nm
+  Standard deviation: 0.00324  nm
+O5'-C5'.Res30.HP:
+  Number of samples:  8001
+  Average distance:   0.14368  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res31.HP:
+  Number of samples:  8001
+  Average distance:   0.14349  nm
+  Standard deviation: 0.00314  nm
+O5'-C5'.Res32.HP:
+  Number of samples:  8001
+  Average distance:   0.14335  nm
+  Standard deviation: 0.00312  nm
+O5'-C5'.Res33.HP:
+  Number of samples:  8001
+  Average distance:   0.14314  nm
+  Standard deviation: 0.00317  nm
+O5'-C5'.Res34.HP:
+  Number of samples:  8001
+  Average distance:   0.14276  nm
+  Standard deviation: 0.00316  nm
+O5'-C5'.Res35.HP:
+  Number of samples:  8001
+  Average distance:   0.14299  nm
+  Standard deviation: 0.00317  nm
+O5'-C5'.Res36.HP:
+  Number of samples:  8001
+  Average distance:   0.14314  nm
+  Standard deviation: 0.00315  nm
+O5'-C5'.Res37.HP:
+  Number of samples:  8001
+  Average distance:   0.14318  nm
+  Standard deviation: 0.00318  nm
+O5'-C5'.Res38.HP:
+  Number of samples:  8001
+  Average distance:   0.14322  nm
+  Standard deviation: 0.00315  nm
+O5'-C5'.Res39.HP:
+  Number of samples:  8001
+  Average distance:   0.14334  nm
+  Standard deviation: 0.00314  nm
+O5'-C5'.Res40.HP:
+  Number of samples:  8001
+  Average distance:   0.14304  nm
+  Standard deviation: 0.00316  nm
+O5'-C5'.Res41.HP:
+  Number of samples:  8001
+  Average distance:   0.14311  nm
+  Standard deviation: 0.00315  nm
+O5'-C5'.Res42.HP:
+  Number of samples:  8001
+  Average distance:   0.14281  nm
+  Standard deviation: 0.00314  nm
+O5'-C5'.Res43.HP:
+  Number of samples:  8001
+  Average distance:   0.14279  nm
+  Standard deviation: 0.00314  nm
+O5'-C5'.Res44.HP:
+  Number of samples:  8001
+  Average distance:   0.14273  nm
+  Standard deviation: 0.00319  nm
+O5'-C5'.Res45.HP:
+  Number of samples:  8001
+  Average distance:   0.14265  nm
+  Standard deviation: 0.00309  nm
+O5'-C5'.Res46.HP:
+  Number of samples:  8001
+  Average distance:   0.14284  nm
+  Standard deviation: 0.00314  nm
+O5'-C5'.Res47.HP:
+  Number of samples:  8001
+  Average distance:   0.14246  nm
+  Standard deviation: 0.00312  nm
+O5'-C5'.Res48.HP:
+  Number of samples:  8001
+  Average distance:   0.14255  nm
+  Standard deviation: 0.00311  nm
+O5'-C5'.Res49.HP:
+  Number of samples:  8001
+  Average distance:   0.14262  nm
+  Standard deviation: 0.00309  nm
+O5'-C5'.Res50.HP:
+  Number of samples:  8001
+  Average distance:   0.14259  nm
+  Standard deviation: 0.00314  nm
+O5'-C5'.Res51.HP:
+  Number of samples:  8001
+  Average distance:   0.14279  nm
+  Standard deviation: 0.00310  nm
+O5'-C5'.Res52.HP:
+  Number of samples:  8001
+  Average distance:   0.14298  nm
+  Standard deviation: 0.00318  nm
+O5'-C5'.Res53.HP:
+  Number of samples:  8001
+  Average distance:   0.14321  nm
+  Standard deviation: 0.00318  nm
+O5'-C5'.Res54.HP:
+  Number of samples:  8001
+  Average distance:   0.14287  nm
+  Standard deviation: 0.00319  nm
+O5'-C5'.Res55.HP:
+  Number of samples:  8001
+  Average distance:   0.14278  nm
+  Standard deviation: 0.00311  nm
+O5'-C5'.Res56.HP:
+  Number of samples:  8001
+  Average distance:   0.14287  nm
+  Standard deviation: 0.00312  nm
+O5'-C5'.Res57.HP:
+  Number of samples:  8001
+  Average distance:   0.14328  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res58.HP:
+  Number of samples:  8001
+  Average distance:   0.14338  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res59.HP:
+  Number of samples:  8001
+  Average distance:   0.14336  nm
+  Standard deviation: 0.00319  nm
+O5'-C5'.Res60.HP:
+  Number of samples:  8001
+  Average distance:   0.14355  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res61.HP:
+  Number of samples:  8001
+  Average distance:   0.14349  nm
+  Standard deviation: 0.00321  nm
+O5'-C5'.Res62.HP:
+  Number of samples:  8001
+  Average distance:   0.14354  nm
+  Standard deviation: 0.00317  nm
+O5'-C5'.Res63.HP:
+  Number of samples:  8001
+  Average distance:   0.14329  nm
+  Standard deviation: 0.00319  nm
+O5'-C5'.Res64.HP:
+  Number of samples:  8001
+  Average distance:   0.14316  nm
+  Standard deviation: 0.00311  nm
+O5'-C5'.Res65.HP:
+  Number of samples:  8001
+  Average distance:   0.14315  nm
+  Standard deviation: 0.00319  nm
+O5'-C5'.Res66.HP:
+  Number of samples:  8001
+  Average distance:   0.14303  nm
+  Standard deviation: 0.00313  nm
+O5'-C5'.Res67.HP:
+  Number of samples:  8001
+  Average distance:   0.14296  nm
+  Standard deviation: 0.00320  nm
+O5'-C5'.Res68.HP:
+  Number of samples:  8001
+  Average distance:   0.14292  nm
+  Standard deviation: 0.00318  nm
+O5'-C5'.Res69.HP:
+  Number of samples:  8001
+  Average distance:   0.14333  nm
+  Standard deviation: 0.00316  nm
+O5'-C5'.Res70.HP:
+  Number of samples:  8001
+  Average distance:   0.14331  nm
+  Standard deviation: 0.00317  nm
+O5'-C5'.Res71.HP:
+  Number of samples:  8001
+  Average distance:   0.14347  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res72.HP:
+  Number of samples:  8001
+  Average distance:   0.14379  nm
+  Standard deviation: 0.00320  nm
+O5'-C5'.Res73.HP:
+  Number of samples:  8001
+  Average distance:   0.14394  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res74.HP:
+  Number of samples:  8001
+  Average distance:   0.14402  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res75.HP:
+  Number of samples:  8001
+  Average distance:   0.14421  nm
+  Standard deviation: 0.00320  nm
+O5'-C5'.Res76.HP:
+  Number of samples:  8001
+  Average distance:   0.14434  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res77.HP:
+  Number of samples:  8001
+  Average distance:   0.14457  nm
+  Standard deviation: 0.00323  nm
+O5'-C5'.Res78.HP:
+  Number of samples:  8001
+  Average distance:   0.14475  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res79.HP:
+  Number of samples:  8001
+  Average distance:   0.14482  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res80.HP:
+  Number of samples:  8001
+  Average distance:   0.14527  nm
+  Standard deviation: 0.00336  nm
+O5'-C5'.Res81.HP:
+  Number of samples:  8001
+  Average distance:   0.14499  nm
+  Standard deviation: 0.00332  nm
+O5'-C5'.Res82.HP:
+  Number of samples:  8001
+  Average distance:   0.14488  nm
+  Standard deviation: 0.00332  nm
+O5'-C5'.Res83.HP:
+  Number of samples:  8001
+  Average distance:   0.14518  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res84.HP:
+  Number of samples:  8001
+  Average distance:   0.14548  nm
+  Standard deviation: 0.00336  nm
+O5'-C5'.Res85.HP:
+  Number of samples:  8001
+  Average distance:   0.14489  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res86.HP:
+  Number of samples:  8001
+  Average distance:   0.14478  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res87.HP:
+  Number of samples:  8001
+  Average distance:   0.14472  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res88.HP:
+  Number of samples:  8001
+  Average distance:   0.14472  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res89.HP:
+  Number of samples:  8001
+  Average distance:   0.14452  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res90.HP:
+  Number of samples:  8001
+  Average distance:   0.14461  nm
+  Standard deviation: 0.00331  nm
+O5'-C5'.Res91.HP:
+  Number of samples:  8001
+  Average distance:   0.14434  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res92.HP:
+  Number of samples:  8001
+  Average distance:   0.14448  nm
+  Standard deviation: 0.00324  nm
+O5'-C5'.Res93.HP:
+  Number of samples:  8001
+  Average distance:   0.14449  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res94.HP:
+  Number of samples:  8001
+  Average distance:   0.14438  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res95.HP:
+  Number of samples:  8001
+  Average distance:   0.14434  nm
+  Standard deviation: 0.00327  nm
+O5'-C5'.Res96.HP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res97.HP:
+  Number of samples:  8001
+  Average distance:   0.14430  nm
+  Standard deviation: 0.00322  nm
+O5'-C5'.Res98.HP:
+  Number of samples:  8001
+  Average distance:   0.14432  nm
+  Standard deviation: 0.00325  nm
+O5'-C5'.Res99.HP:
+  Number of samples:  8001
+  Average distance:   0.14432  nm
+  Standard deviation: 0.00328  nm
+O5'-C5'.Res100.HP:
+  Number of samples:  8001
+  Average distance:   0.14422  nm
+  Standard deviation: 0.00320  nm
+O5'-C5'.Res101.HP:
+  Number of samples:  8001
+  Average distance:   0.14430  nm
+  Standard deviation: 0.00326  nm
+O5'-C5'.Res102.HP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00329  nm
+O5'-C5'.Res103.HP:
+  Number of samples:  8001
+  Average distance:   0.14440  nm
+  Standard deviation: 0.00330  nm
+O5'-C5'.Res104.HP:
+  Number of samples:  8001
+  Average distance:   0.14387  nm
+  Standard deviation: 0.00327  nm
+C5'-C4'.Res1.HP:
+  Number of samples:  8001
+  Average distance:   0.15426  nm
+  Standard deviation: 0.00323  nm
+C5'-C4'.Res2.HP:
+  Number of samples:  8001
+  Average distance:   0.15557  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res3.HP:
+  Number of samples:  8001
+  Average distance:   0.15568  nm
+  Standard deviation: 0.00341  nm
+C5'-C4'.Res4.HP:
+  Number of samples:  8001
+  Average distance:   0.15554  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res5.HP:
+  Number of samples:  8001
+  Average distance:   0.15545  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res6.HP:
+  Number of samples:  8001
+  Average distance:   0.15549  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res7.HP:
+  Number of samples:  8001
+  Average distance:   0.15546  nm
+  Standard deviation: 0.00332  nm
+C5'-C4'.Res8.HP:
+  Number of samples:  8001
+  Average distance:   0.15514  nm
+  Standard deviation: 0.00332  nm
+C5'-C4'.Res9.HP:
+  Number of samples:  8001
+  Average distance:   0.15452  nm
+  Standard deviation: 0.00328  nm
+C5'-C4'.Res10.HP:
+  Number of samples:  8001
+  Average distance:   0.15589  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res11.HP:
+  Number of samples:  8001
+  Average distance:   0.15574  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res12.HP:
+  Number of samples:  8001
+  Average distance:   0.15590  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res13.HP:
+  Number of samples:  8001
+  Average distance:   0.15575  nm
+  Standard deviation: 0.00331  nm
+C5'-C4'.Res14.HP:
+  Number of samples:  8001
+  Average distance:   0.15564  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res15.HP:
+  Number of samples:  8001
+  Average distance:   0.15580  nm
+  Standard deviation: 0.00337  nm
+C5'-C4'.Res16.HP:
+  Number of samples:  8001
+  Average distance:   0.15560  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res17.HP:
+  Number of samples:  8001
+  Average distance:   0.15552  nm
+  Standard deviation: 0.00330  nm
+C5'-C4'.Res18.HP:
+  Number of samples:  8001
+  Average distance:   0.15569  nm
+  Standard deviation: 0.00339  nm
+C5'-C4'.Res19.HP:
+  Number of samples:  8001
+  Average distance:   0.15579  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res20.HP:
+  Number of samples:  8001
+  Average distance:   0.15556  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res21.HP:
+  Number of samples:  8001
+  Average distance:   0.15547  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res22.HP:
+  Number of samples:  8001
+  Average distance:   0.15554  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res23.HP:
+  Number of samples:  8001
+  Average distance:   0.15454  nm
+  Standard deviation: 0.00326  nm
+C5'-C4'.Res24.HP:
+  Number of samples:  8001
+  Average distance:   0.15558  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res25.HP:
+  Number of samples:  8001
+  Average distance:   0.15465  nm
+  Standard deviation: 0.00329  nm
+C5'-C4'.Res26.HP:
+  Number of samples:  8001
+  Average distance:   0.15555  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res27.HP:
+  Number of samples:  8001
+  Average distance:   0.15509  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res28.HP:
+  Number of samples:  8001
+  Average distance:   0.15504  nm
+  Standard deviation: 0.00332  nm
+C5'-C4'.Res29.HP:
+  Number of samples:  8001
+  Average distance:   0.15520  nm
+  Standard deviation: 0.00331  nm
+C5'-C4'.Res30.HP:
+  Number of samples:  8001
+  Average distance:   0.15503  nm
+  Standard deviation: 0.00328  nm
+C5'-C4'.Res31.HP:
+  Number of samples:  8001
+  Average distance:   0.15472  nm
+  Standard deviation: 0.00324  nm
+C5'-C4'.Res32.HP:
+  Number of samples:  8001
+  Average distance:   0.15453  nm
+  Standard deviation: 0.00328  nm
+C5'-C4'.Res33.HP:
+  Number of samples:  8001
+  Average distance:   0.15438  nm
+  Standard deviation: 0.00326  nm
+C5'-C4'.Res34.HP:
+  Number of samples:  8001
+  Average distance:   0.15427  nm
+  Standard deviation: 0.00324  nm
+C5'-C4'.Res35.HP:
+  Number of samples:  8001
+  Average distance:   0.15444  nm
+  Standard deviation: 0.00321  nm
+C5'-C4'.Res36.HP:
+  Number of samples:  8001
+  Average distance:   0.15435  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res37.HP:
+  Number of samples:  8001
+  Average distance:   0.15449  nm
+  Standard deviation: 0.00327  nm
+C5'-C4'.Res38.HP:
+  Number of samples:  8001
+  Average distance:   0.15429  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res39.HP:
+  Number of samples:  8001
+  Average distance:   0.15455  nm
+  Standard deviation: 0.00329  nm
+C5'-C4'.Res40.HP:
+  Number of samples:  8001
+  Average distance:   0.15448  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res41.HP:
+  Number of samples:  8001
+  Average distance:   0.15430  nm
+  Standard deviation: 0.00320  nm
+C5'-C4'.Res42.HP:
+  Number of samples:  8001
+  Average distance:   0.15405  nm
+  Standard deviation: 0.00321  nm
+C5'-C4'.Res43.HP:
+  Number of samples:  8001
+  Average distance:   0.15406  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res44.HP:
+  Number of samples:  8001
+  Average distance:   0.15424  nm
+  Standard deviation: 0.00325  nm
+C5'-C4'.Res45.HP:
+  Number of samples:  8001
+  Average distance:   0.15388  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res46.HP:
+  Number of samples:  8001
+  Average distance:   0.15424  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res47.HP:
+  Number of samples:  8001
+  Average distance:   0.15377  nm
+  Standard deviation: 0.00319  nm
+C5'-C4'.Res48.HP:
+  Number of samples:  8001
+  Average distance:   0.15358  nm
+  Standard deviation: 0.00317  nm
+C5'-C4'.Res49.HP:
+  Number of samples:  8001
+  Average distance:   0.15389  nm
+  Standard deviation: 0.00319  nm
+C5'-C4'.Res50.HP:
+  Number of samples:  8001
+  Average distance:   0.15391  nm
+  Standard deviation: 0.00317  nm
+C5'-C4'.Res51.HP:
+  Number of samples:  8001
+  Average distance:   0.15372  nm
+  Standard deviation: 0.00318  nm
+C5'-C4'.Res52.HP:
+  Number of samples:  8001
+  Average distance:   0.15401  nm
+  Standard deviation: 0.00318  nm
+C5'-C4'.Res53.HP:
+  Number of samples:  8001
+  Average distance:   0.15400  nm
+  Standard deviation: 0.00321  nm
+C5'-C4'.Res54.HP:
+  Number of samples:  8001
+  Average distance:   0.15439  nm
+  Standard deviation: 0.00327  nm
+C5'-C4'.Res55.HP:
+  Number of samples:  8001
+  Average distance:   0.15415  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res56.HP:
+  Number of samples:  8001
+  Average distance:   0.15418  nm
+  Standard deviation: 0.00324  nm
+C5'-C4'.Res57.HP:
+  Number of samples:  8001
+  Average distance:   0.15458  nm
+  Standard deviation: 0.00322  nm
+C5'-C4'.Res58.HP:
+  Number of samples:  8001
+  Average distance:   0.15467  nm
+  Standard deviation: 0.00326  nm
+C5'-C4'.Res59.HP:
+  Number of samples:  8001
+  Average distance:   0.15464  nm
+  Standard deviation: 0.00330  nm
+C5'-C4'.Res60.HP:
+  Number of samples:  8001
+  Average distance:   0.15458  nm
+  Standard deviation: 0.00324  nm
+C5'-C4'.Res61.HP:
+  Number of samples:  8001
+  Average distance:   0.15477  nm
+  Standard deviation: 0.00325  nm
+C5'-C4'.Res62.HP:
+  Number of samples:  8001
+  Average distance:   0.15462  nm
+  Standard deviation: 0.00329  nm
+C5'-C4'.Res63.HP:
+  Number of samples:  8001
+  Average distance:   0.15449  nm
+  Standard deviation: 0.00325  nm
+C5'-C4'.Res64.HP:
+  Number of samples:  8001
+  Average distance:   0.15437  nm
+  Standard deviation: 0.00325  nm
+C5'-C4'.Res65.HP:
+  Number of samples:  8001
+  Average distance:   0.15429  nm
+  Standard deviation: 0.00320  nm
+C5'-C4'.Res66.HP:
+  Number of samples:  8001
+  Average distance:   0.15415  nm
+  Standard deviation: 0.00324  nm
+C5'-C4'.Res67.HP:
+  Number of samples:  8001
+  Average distance:   0.15428  nm
+  Standard deviation: 0.00320  nm
+C5'-C4'.Res68.HP:
+  Number of samples:  8001
+  Average distance:   0.15481  nm
+  Standard deviation: 0.00325  nm
+C5'-C4'.Res69.HP:
+  Number of samples:  8001
+  Average distance:   0.15479  nm
+  Standard deviation: 0.00335  nm
+C5'-C4'.Res70.HP:
+  Number of samples:  8001
+  Average distance:   0.15452  nm
+  Standard deviation: 0.00323  nm
+C5'-C4'.Res71.HP:
+  Number of samples:  8001
+  Average distance:   0.15466  nm
+  Standard deviation: 0.00330  nm
+C5'-C4'.Res72.HP:
+  Number of samples:  8001
+  Average distance:   0.15498  nm
+  Standard deviation: 0.00329  nm
+C5'-C4'.Res73.HP:
+  Number of samples:  8001
+  Average distance:   0.15465  nm
+  Standard deviation: 0.00323  nm
+C5'-C4'.Res74.HP:
+  Number of samples:  8001
+  Average distance:   0.15536  nm
+  Standard deviation: 0.00333  nm
+C5'-C4'.Res75.HP:
+  Number of samples:  8001
+  Average distance:   0.15484  nm
+  Standard deviation: 0.00332  nm
+C5'-C4'.Res76.HP:
+  Number of samples:  8001
+  Average distance:   0.15487  nm
+  Standard deviation: 0.00331  nm
+C5'-C4'.Res77.HP:
+  Number of samples:  8001
+  Average distance:   0.15542  nm
+  Standard deviation: 0.00337  nm
+C5'-C4'.Res78.HP:
+  Number of samples:  8001
+  Average distance:   0.15544  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res79.HP:
+  Number of samples:  8001
+  Average distance:   0.15473  nm
+  Standard deviation: 0.00328  nm
+C5'-C4'.Res80.HP:
+  Number of samples:  8001
+  Average distance:   0.15642  nm
+  Standard deviation: 0.00345  nm
+C5'-C4'.Res81.HP:
+  Number of samples:  8001
+  Average distance:   0.15605  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res82.HP:
+  Number of samples:  8001
+  Average distance:   0.15602  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res83.HP:
+  Number of samples:  8001
+  Average distance:   0.15509  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res84.HP:
+  Number of samples:  8001
+  Average distance:   0.15657  nm
+  Standard deviation: 0.00350  nm
+C5'-C4'.Res85.HP:
+  Number of samples:  8001
+  Average distance:   0.15619  nm
+  Standard deviation: 0.00338  nm
+C5'-C4'.Res86.HP:
+  Number of samples:  8001
+  Average distance:   0.15613  nm
+  Standard deviation: 0.00345  nm
+C5'-C4'.Res87.HP:
+  Number of samples:  8001
+  Average distance:   0.15596  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res88.HP:
+  Number of samples:  8001
+  Average distance:   0.15601  nm
+  Standard deviation: 0.00344  nm
+C5'-C4'.Res89.HP:
+  Number of samples:  8001
+  Average distance:   0.15595  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res90.HP:
+  Number of samples:  8001
+  Average distance:   0.15582  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res91.HP:
+  Number of samples:  8001
+  Average distance:   0.15578  nm
+  Standard deviation: 0.00336  nm
+C5'-C4'.Res92.HP:
+  Number of samples:  8001
+  Average distance:   0.15565  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res93.HP:
+  Number of samples:  8001
+  Average distance:   0.15566  nm
+  Standard deviation: 0.00341  nm
+C5'-C4'.Res94.HP:
+  Number of samples:  8001
+  Average distance:   0.15558  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res95.HP:
+  Number of samples:  8001
+  Average distance:   0.15573  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res96.HP:
+  Number of samples:  8001
+  Average distance:   0.15574  nm
+  Standard deviation: 0.00343  nm
+C5'-C4'.Res97.HP:
+  Number of samples:  8001
+  Average distance:   0.15561  nm
+  Standard deviation: 0.00340  nm
+C5'-C4'.Res98.HP:
+  Number of samples:  8001
+  Average distance:   0.15571  nm
+  Standard deviation: 0.00339  nm
+C5'-C4'.Res99.HP:
+  Number of samples:  8001
+  Average distance:   0.15559  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res100.HP:
+  Number of samples:  8001
+  Average distance:   0.15585  nm
+  Standard deviation: 0.00339  nm
+C5'-C4'.Res101.HP:
+  Number of samples:  8001
+  Average distance:   0.15552  nm
+  Standard deviation: 0.00342  nm
+C5'-C4'.Res102.HP:
+  Number of samples:  8001
+  Average distance:   0.15541  nm
+  Standard deviation: 0.00334  nm
+C5'-C4'.Res103.HP:
+  Number of samples:  8001
+  Average distance:   0.15549  nm
+  Standard deviation: 0.00341  nm
+C5'-C4'.Res104.HP:
+  Number of samples:  8001
+  Average distance:   0.15453  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res1.HP:
+  Number of samples:  8001
+  Average distance:   0.15450  nm
+  Standard deviation: 0.00316  nm
+C4'-C3'.Res2.HP:
+  Number of samples:  8001
+  Average distance:   0.15580  nm
+  Standard deviation: 0.00328  nm
+C4'-C3'.Res3.HP:
+  Number of samples:  8001
+  Average distance:   0.15593  nm
+  Standard deviation: 0.00334  nm
+C4'-C3'.Res4.HP:
+  Number of samples:  8001
+  Average distance:   0.15587  nm
+  Standard deviation: 0.00326  nm
+C4'-C3'.Res5.HP:
+  Number of samples:  8001
+  Average distance:   0.15574  nm
+  Standard deviation: 0.00327  nm
+C4'-C3'.Res6.HP:
+  Number of samples:  8001
+  Average distance:   0.15584  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res7.HP:
+  Number of samples:  8001
+  Average distance:   0.15581  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res8.HP:
+  Number of samples:  8001
+  Average distance:   0.15581  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res9.HP:
+  Number of samples:  8001
+  Average distance:   0.15604  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res10.HP:
+  Number of samples:  8001
+  Average distance:   0.15649  nm
+  Standard deviation: 0.00338  nm
+C4'-C3'.Res11.HP:
+  Number of samples:  8001
+  Average distance:   0.15633  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res12.HP:
+  Number of samples:  8001
+  Average distance:   0.15604  nm
+  Standard deviation: 0.00334  nm
+C4'-C3'.Res13.HP:
+  Number of samples:  8001
+  Average distance:   0.15616  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res14.HP:
+  Number of samples:  8001
+  Average distance:   0.15619  nm
+  Standard deviation: 0.00334  nm
+C4'-C3'.Res15.HP:
+  Number of samples:  8001
+  Average distance:   0.15603  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res16.HP:
+  Number of samples:  8001
+  Average distance:   0.15613  nm
+  Standard deviation: 0.00332  nm
+C4'-C3'.Res17.HP:
+  Number of samples:  8001
+  Average distance:   0.15612  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res18.HP:
+  Number of samples:  8001
+  Average distance:   0.15599  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res19.HP:
+  Number of samples:  8001
+  Average distance:   0.15612  nm
+  Standard deviation: 0.00332  nm
+C4'-C3'.Res20.HP:
+  Number of samples:  8001
+  Average distance:   0.15605  nm
+  Standard deviation: 0.00332  nm
+C4'-C3'.Res21.HP:
+  Number of samples:  8001
+  Average distance:   0.15602  nm
+  Standard deviation: 0.00330  nm
+C4'-C3'.Res22.HP:
+  Number of samples:  8001
+  Average distance:   0.15600  nm
+  Standard deviation: 0.00331  nm
+C4'-C3'.Res23.HP:
+  Number of samples:  8001
+  Average distance:   0.15577  nm
+  Standard deviation: 0.00330  nm
+C4'-C3'.Res24.HP:
+  Number of samples:  8001
+  Average distance:   0.15611  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res25.HP:
+  Number of samples:  8001
+  Average distance:   0.15556  nm
+  Standard deviation: 0.00326  nm
+C4'-C3'.Res26.HP:
+  Number of samples:  8001
+  Average distance:   0.15568  nm
+  Standard deviation: 0.00329  nm
+C4'-C3'.Res27.HP:
+  Number of samples:  8001
+  Average distance:   0.15571  nm
+  Standard deviation: 0.00328  nm
+C4'-C3'.Res28.HP:
+  Number of samples:  8001
+  Average distance:   0.15546  nm
+  Standard deviation: 0.00328  nm
+C4'-C3'.Res29.HP:
+  Number of samples:  8001
+  Average distance:   0.15502  nm
+  Standard deviation: 0.00326  nm
+C4'-C3'.Res30.HP:
+  Number of samples:  8001
+  Average distance:   0.15531  nm
+  Standard deviation: 0.00325  nm
+C4'-C3'.Res31.HP:
+  Number of samples:  8001
+  Average distance:   0.15523  nm
+  Standard deviation: 0.00319  nm
+C4'-C3'.Res32.HP:
+  Number of samples:  8001
+  Average distance:   0.15498  nm
+  Standard deviation: 0.00319  nm
+C4'-C3'.Res33.HP:
+  Number of samples:  8001
+  Average distance:   0.15472  nm
+  Standard deviation: 0.00320  nm
+C4'-C3'.Res34.HP:
+  Number of samples:  8001
+  Average distance:   0.15457  nm
+  Standard deviation: 0.00319  nm
+C4'-C3'.Res35.HP:
+  Number of samples:  8001
+  Average distance:   0.15463  nm
+  Standard deviation: 0.00313  nm
+C4'-C3'.Res36.HP:
+  Number of samples:  8001
+  Average distance:   0.15472  nm
+  Standard deviation: 0.00322  nm
+C4'-C3'.Res37.HP:
+  Number of samples:  8001
+  Average distance:   0.15485  nm
+  Standard deviation: 0.00323  nm
+C4'-C3'.Res38.HP:
+  Number of samples:  8001
+  Average distance:   0.15490  nm
+  Standard deviation: 0.00318  nm
+C4'-C3'.Res39.HP:
+  Number of samples:  8001
+  Average distance:   0.15483  nm
+  Standard deviation: 0.00319  nm
+C4'-C3'.Res40.HP:
+  Number of samples:  8001
+  Average distance:   0.15494  nm
+  Standard deviation: 0.00323  nm
+C4'-C3'.Res41.HP:
+  Number of samples:  8001
+  Average distance:   0.15478  nm
+  Standard deviation: 0.00316  nm
+C4'-C3'.Res42.HP:
+  Number of samples:  8001
+  Average distance:   0.15465  nm
+  Standard deviation: 0.00317  nm
+C4'-C3'.Res43.HP:
+  Number of samples:  8001
+  Average distance:   0.15453  nm
+  Standard deviation: 0.00318  nm
+C4'-C3'.Res44.HP:
+  Number of samples:  8001
+  Average distance:   0.15431  nm
+  Standard deviation: 0.00314  nm
+C4'-C3'.Res45.HP:
+  Number of samples:  8001
+  Average distance:   0.15356  nm
+  Standard deviation: 0.00314  nm
+C4'-C3'.Res46.HP:
+  Number of samples:  8001
+  Average distance:   0.15404  nm
+  Standard deviation: 0.00318  nm
+C4'-C3'.Res47.HP:
+  Number of samples:  8001
+  Average distance:   0.15405  nm
+  Standard deviation: 0.00324  nm
+C4'-C3'.Res48.HP:
+  Number of samples:  8001
+  Average distance:   0.15410  nm
+  Standard deviation: 0.00311  nm
+C4'-C3'.Res49.HP:
+  Number of samples:  8001
+  Average distance:   0.15404  nm
+  Standard deviation: 0.00308  nm
+C4'-C3'.Res50.HP:
+  Number of samples:  8001
+  Average distance:   0.15436  nm
+  Standard deviation: 0.00318  nm
+C4'-C3'.Res51.HP:
+  Number of samples:  8001
+  Average distance:   0.15466  nm
+  Standard deviation: 0.00321  nm
+C4'-C3'.Res52.HP:
+  Number of samples:  8001
+  Average distance:   0.15410  nm
+  Standard deviation: 0.00320  nm
+C4'-C3'.Res53.HP:
+  Number of samples:  8001
+  Average distance:   0.15384  nm
+  Standard deviation: 0.00312  nm
+C4'-C3'.Res54.HP:
+  Number of samples:  8001
+  Average distance:   0.15432  nm
+  Standard deviation: 0.00315  nm
+C4'-C3'.Res55.HP:
+  Number of samples:  8001
+  Average distance:   0.15469  nm
+  Standard deviation: 0.00323  nm
+C4'-C3'.Res56.HP:
+  Number of samples:  8001
+  Average distance:   0.15456  nm
+  Standard deviation: 0.00316  nm
+C4'-C3'.Res57.HP:
+  Number of samples:  8001
+  Average distance:   0.15483  nm
+  Standard deviation: 0.00320  nm
+C4'-C3'.Res58.HP:
+  Number of samples:  8001
+  Average distance:   0.15494  nm
+  Standard deviation: 0.00318  nm
+C4'-C3'.Res59.HP:
+  Number of samples:  8001
+  Average distance:   0.15506  nm
+  Standard deviation: 0.00324  nm
+C4'-C3'.Res60.HP:
+  Number of samples:  8001
+  Average distance:   0.15485  nm
+  Standard deviation: 0.00329  nm
+C4'-C3'.Res61.HP:
+  Number of samples:  8001
+  Average distance:   0.15529  nm
+  Standard deviation: 0.00327  nm
+C4'-C3'.Res62.HP:
+  Number of samples:  8001
+  Average distance:   0.15491  nm
+  Standard deviation: 0.00325  nm
+C4'-C3'.Res63.HP:
+  Number of samples:  8001
+  Average distance:   0.15490  nm
+  Standard deviation: 0.00323  nm
+C4'-C3'.Res64.HP:
+  Number of samples:  8001
+  Average distance:   0.15477  nm
+  Standard deviation: 0.00325  nm
+C4'-C3'.Res65.HP:
+  Number of samples:  8001
+  Average distance:   0.15493  nm
+  Standard deviation: 0.00325  nm
+C4'-C3'.Res66.HP:
+  Number of samples:  8001
+  Average distance:   0.15488  nm
+  Standard deviation: 0.00322  nm
+C4'-C3'.Res67.HP:
+  Number of samples:  8001
+  Average distance:   0.15476  nm
+  Standard deviation: 0.00320  nm
+C4'-C3'.Res68.HP:
+  Number of samples:  8001
+  Average distance:   0.15486  nm
+  Standard deviation: 0.00324  nm
+C4'-C3'.Res69.HP:
+  Number of samples:  8001
+  Average distance:   0.15479  nm
+  Standard deviation: 0.00322  nm
+C4'-C3'.Res70.HP:
+  Number of samples:  8001
+  Average distance:   0.15498  nm
+  Standard deviation: 0.00322  nm
+C4'-C3'.Res71.HP:
+  Number of samples:  8001
+  Average distance:   0.15504  nm
+  Standard deviation: 0.00329  nm
+C4'-C3'.Res72.HP:
+  Number of samples:  8001
+  Average distance:   0.15561  nm
+  Standard deviation: 0.00329  nm
+C4'-C3'.Res73.HP:
+  Number of samples:  8001
+  Average distance:   0.15540  nm
+  Standard deviation: 0.00338  nm
+C4'-C3'.Res74.HP:
+  Number of samples:  8001
+  Average distance:   0.15554  nm
+  Standard deviation: 0.00330  nm
+C4'-C3'.Res75.HP:
+  Number of samples:  8001
+  Average distance:   0.15588  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res76.HP:
+  Number of samples:  8001
+  Average distance:   0.15634  nm
+  Standard deviation: 0.00338  nm
+C4'-C3'.Res77.HP:
+  Number of samples:  8001
+  Average distance:   0.15641  nm
+  Standard deviation: 0.00338  nm
+C4'-C3'.Res78.HP:
+  Number of samples:  8001
+  Average distance:   0.15614  nm
+  Standard deviation: 0.00341  nm
+C4'-C3'.Res79.HP:
+  Number of samples:  8001
+  Average distance:   0.15612  nm
+  Standard deviation: 0.00333  nm
+C4'-C3'.Res80.HP:
+  Number of samples:  8001
+  Average distance:   0.15684  nm
+  Standard deviation: 0.00343  nm
+C4'-C3'.Res81.HP:
+  Number of samples:  8001
+  Average distance:   0.15677  nm
+  Standard deviation: 0.00346  nm
+C4'-C3'.Res82.HP:
+  Number of samples:  8001
+  Average distance:   0.15680  nm
+  Standard deviation: 0.00346  nm
+C4'-C3'.Res83.HP:
+  Number of samples:  8001
+  Average distance:   0.15671  nm
+  Standard deviation: 0.00343  nm
+C4'-C3'.Res84.HP:
+  Number of samples:  8001
+  Average distance:   0.15683  nm
+  Standard deviation: 0.00346  nm
+C4'-C3'.Res85.HP:
+  Number of samples:  8001
+  Average distance:   0.15636  nm
+  Standard deviation: 0.00343  nm
+C4'-C3'.Res86.HP:
+  Number of samples:  8001
+  Average distance:   0.15657  nm
+  Standard deviation: 0.00341  nm
+C4'-C3'.Res87.HP:
+  Number of samples:  8001
+  Average distance:   0.15639  nm
+  Standard deviation: 0.00342  nm
+C4'-C3'.Res88.HP:
+  Number of samples:  8001
+  Average distance:   0.15636  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res89.HP:
+  Number of samples:  8001
+  Average distance:   0.15624  nm
+  Standard deviation: 0.00344  nm
+C4'-C3'.Res90.HP:
+  Number of samples:  8001
+  Average distance:   0.15629  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res91.HP:
+  Number of samples:  8001
+  Average distance:   0.15624  nm
+  Standard deviation: 0.00340  nm
+C4'-C3'.Res92.HP:
+  Number of samples:  8001
+  Average distance:   0.15615  nm
+  Standard deviation: 0.00341  nm
+C4'-C3'.Res93.HP:
+  Number of samples:  8001
+  Average distance:   0.15622  nm
+  Standard deviation: 0.00338  nm
+C4'-C3'.Res94.HP:
+  Number of samples:  8001
+  Average distance:   0.15611  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res95.HP:
+  Number of samples:  8001
+  Average distance:   0.15604  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res96.HP:
+  Number of samples:  8001
+  Average distance:   0.15615  nm
+  Standard deviation: 0.00339  nm
+C4'-C3'.Res97.HP:
+  Number of samples:  8001
+  Average distance:   0.15608  nm
+  Standard deviation: 0.00336  nm
+C4'-C3'.Res98.HP:
+  Number of samples:  8001
+  Average distance:   0.15596  nm
+  Standard deviation: 0.00340  nm
+C4'-C3'.Res99.HP:
+  Number of samples:  8001
+  Average distance:   0.15608  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res100.HP:
+  Number of samples:  8001
+  Average distance:   0.15600  nm
+  Standard deviation: 0.00337  nm
+C4'-C3'.Res101.HP:
+  Number of samples:  8001
+  Average distance:   0.15601  nm
+  Standard deviation: 0.00340  nm
+C4'-C3'.Res102.HP:
+  Number of samples:  8001
+  Average distance:   0.15615  nm
+  Standard deviation: 0.00335  nm
+C4'-C3'.Res103.HP:
+  Number of samples:  8001
+  Average distance:   0.15618  nm
+  Standard deviation: 0.00341  nm
+C4'-C3'.Res104.HP:
+  Number of samples:  8001
+  Average distance:   0.15448  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res1.HP:
+  Number of samples:  8001
+  Average distance:   0.14409  nm
+  Standard deviation: 0.00326  nm
+C3'-O3'.Res2.HP:
+  Number of samples:  8001
+  Average distance:   0.14417  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res3.HP:
+  Number of samples:  8001
+  Average distance:   0.14410  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res4.HP:
+  Number of samples:  8001
+  Average distance:   0.14410  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res5.HP:
+  Number of samples:  8001
+  Average distance:   0.14399  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res6.HP:
+  Number of samples:  8001
+  Average distance:   0.14402  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res7.HP:
+  Number of samples:  8001
+  Average distance:   0.14385  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res8.HP:
+  Number of samples:  8001
+  Average distance:   0.14390  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res9.HP:
+  Number of samples:  8001
+  Average distance:   0.14344  nm
+  Standard deviation: 0.00315  nm
+C3'-O3'.Res10.HP:
+  Number of samples:  8001
+  Average distance:   0.14441  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res11.HP:
+  Number of samples:  8001
+  Average distance:   0.14443  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res12.HP:
+  Number of samples:  8001
+  Average distance:   0.14433  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res13.HP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res14.HP:
+  Number of samples:  8001
+  Average distance:   0.14442  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res15.HP:
+  Number of samples:  8001
+  Average distance:   0.14423  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res16.HP:
+  Number of samples:  8001
+  Average distance:   0.14425  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res17.HP:
+  Number of samples:  8001
+  Average distance:   0.14423  nm
+  Standard deviation: 0.00322  nm
+C3'-O3'.Res18.HP:
+  Number of samples:  8001
+  Average distance:   0.14425  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res19.HP:
+  Number of samples:  8001
+  Average distance:   0.14418  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res20.HP:
+  Number of samples:  8001
+  Average distance:   0.14415  nm
+  Standard deviation: 0.00322  nm
+C3'-O3'.Res21.HP:
+  Number of samples:  8001
+  Average distance:   0.14411  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res22.HP:
+  Number of samples:  8001
+  Average distance:   0.14389  nm
+  Standard deviation: 0.00315  nm
+C3'-O3'.Res23.HP:
+  Number of samples:  8001
+  Average distance:   0.14315  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res24.HP:
+  Number of samples:  8001
+  Average distance:   0.14394  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res25.HP:
+  Number of samples:  8001
+  Average distance:   0.14312  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res26.HP:
+  Number of samples:  8001
+  Average distance:   0.14380  nm
+  Standard deviation: 0.00322  nm
+C3'-O3'.Res27.HP:
+  Number of samples:  8001
+  Average distance:   0.14371  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res28.HP:
+  Number of samples:  8001
+  Average distance:   0.14350  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res29.HP:
+  Number of samples:  8001
+  Average distance:   0.14367  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res30.HP:
+  Number of samples:  8001
+  Average distance:   0.14341  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res31.HP:
+  Number of samples:  8001
+  Average distance:   0.14336  nm
+  Standard deviation: 0.00312  nm
+C3'-O3'.Res32.HP:
+  Number of samples:  8001
+  Average distance:   0.14307  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res33.HP:
+  Number of samples:  8001
+  Average distance:   0.14298  nm
+  Standard deviation: 0.00310  nm
+C3'-O3'.Res34.HP:
+  Number of samples:  8001
+  Average distance:   0.14294  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res35.HP:
+  Number of samples:  8001
+  Average distance:   0.14293  nm
+  Standard deviation: 0.00314  nm
+C3'-O3'.Res36.HP:
+  Number of samples:  8001
+  Average distance:   0.14309  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res37.HP:
+  Number of samples:  8001
+  Average distance:   0.14312  nm
+  Standard deviation: 0.00313  nm
+C3'-O3'.Res38.HP:
+  Number of samples:  8001
+  Average distance:   0.14315  nm
+  Standard deviation: 0.00313  nm
+C3'-O3'.Res39.HP:
+  Number of samples:  8001
+  Average distance:   0.14315  nm
+  Standard deviation: 0.00318  nm
+C3'-O3'.Res40.HP:
+  Number of samples:  8001
+  Average distance:   0.14304  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res41.HP:
+  Number of samples:  8001
+  Average distance:   0.14296  nm
+  Standard deviation: 0.00313  nm
+C3'-O3'.Res42.HP:
+  Number of samples:  8001
+  Average distance:   0.14293  nm
+  Standard deviation: 0.00312  nm
+C3'-O3'.Res43.HP:
+  Number of samples:  8001
+  Average distance:   0.14299  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res44.HP:
+  Number of samples:  8001
+  Average distance:   0.14271  nm
+  Standard deviation: 0.00314  nm
+C3'-O3'.Res45.HP:
+  Number of samples:  8001
+  Average distance:   0.14251  nm
+  Standard deviation: 0.00312  nm
+C3'-O3'.Res46.HP:
+  Number of samples:  8001
+  Average distance:   0.14237  nm
+  Standard deviation: 0.00312  nm
+C3'-O3'.Res47.HP:
+  Number of samples:  8001
+  Average distance:   0.14254  nm
+  Standard deviation: 0.00312  nm
+C3'-O3'.Res48.HP:
+  Number of samples:  8001
+  Average distance:   0.14243  nm
+  Standard deviation: 0.00314  nm
+C3'-O3'.Res49.HP:
+  Number of samples:  8001
+  Average distance:   0.14290  nm
+  Standard deviation: 0.00312  nm
+C3'-O3'.Res50.HP:
+  Number of samples:  8001
+  Average distance:   0.14264  nm
+  Standard deviation: 0.00314  nm
+C3'-O3'.Res51.HP:
+  Number of samples:  8001
+  Average distance:   0.14269  nm
+  Standard deviation: 0.00313  nm
+C3'-O3'.Res52.HP:
+  Number of samples:  8001
+  Average distance:   0.14266  nm
+  Standard deviation: 0.00311  nm
+C3'-O3'.Res53.HP:
+  Number of samples:  8001
+  Average distance:   0.14237  nm
+  Standard deviation: 0.00310  nm
+C3'-O3'.Res54.HP:
+  Number of samples:  8001
+  Average distance:   0.14286  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res55.HP:
+  Number of samples:  8001
+  Average distance:   0.14293  nm
+  Standard deviation: 0.00315  nm
+C3'-O3'.Res56.HP:
+  Number of samples:  8001
+  Average distance:   0.14307  nm
+  Standard deviation: 0.00312  nm
+C3'-O3'.Res57.HP:
+  Number of samples:  8001
+  Average distance:   0.14323  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res58.HP:
+  Number of samples:  8001
+  Average distance:   0.14332  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res59.HP:
+  Number of samples:  8001
+  Average distance:   0.14334  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res60.HP:
+  Number of samples:  8001
+  Average distance:   0.14314  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res61.HP:
+  Number of samples:  8001
+  Average distance:   0.14339  nm
+  Standard deviation: 0.00322  nm
+C3'-O3'.Res62.HP:
+  Number of samples:  8001
+  Average distance:   0.14306  nm
+  Standard deviation: 0.00312  nm
+C3'-O3'.Res63.HP:
+  Number of samples:  8001
+  Average distance:   0.14298  nm
+  Standard deviation: 0.00315  nm
+C3'-O3'.Res64.HP:
+  Number of samples:  8001
+  Average distance:   0.14290  nm
+  Standard deviation: 0.00316  nm
+C3'-O3'.Res65.HP:
+  Number of samples:  8001
+  Average distance:   0.14314  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res66.HP:
+  Number of samples:  8001
+  Average distance:   0.14298  nm
+  Standard deviation: 0.00310  nm
+C3'-O3'.Res67.HP:
+  Number of samples:  8001
+  Average distance:   0.14316  nm
+  Standard deviation: 0.00315  nm
+C3'-O3'.Res68.HP:
+  Number of samples:  8001
+  Average distance:   0.14379  nm
+  Standard deviation: 0.00313  nm
+C3'-O3'.Res69.HP:
+  Number of samples:  8001
+  Average distance:   0.14340  nm
+  Standard deviation: 0.00320  nm
+C3'-O3'.Res70.HP:
+  Number of samples:  8001
+  Average distance:   0.14319  nm
+  Standard deviation: 0.00315  nm
+C3'-O3'.Res71.HP:
+  Number of samples:  8001
+  Average distance:   0.14344  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res72.HP:
+  Number of samples:  8001
+  Average distance:   0.14367  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res73.HP:
+  Number of samples:  8001
+  Average distance:   0.14342  nm
+  Standard deviation: 0.00317  nm
+C3'-O3'.Res74.HP:
+  Number of samples:  8001
+  Average distance:   0.14404  nm
+  Standard deviation: 0.00326  nm
+C3'-O3'.Res75.HP:
+  Number of samples:  8001
+  Average distance:   0.14364  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res76.HP:
+  Number of samples:  8001
+  Average distance:   0.14379  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res77.HP:
+  Number of samples:  8001
+  Average distance:   0.14415  nm
+  Standard deviation: 0.00325  nm
+C3'-O3'.Res78.HP:
+  Number of samples:  8001
+  Average distance:   0.14393  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res79.HP:
+  Number of samples:  8001
+  Average distance:   0.14382  nm
+  Standard deviation: 0.00322  nm
+C3'-O3'.Res80.HP:
+  Number of samples:  8001
+  Average distance:   0.14466  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res81.HP:
+  Number of samples:  8001
+  Average distance:   0.14479  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res82.HP:
+  Number of samples:  8001
+  Average distance:   0.14461  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res83.HP:
+  Number of samples:  8001
+  Average distance:   0.14379  nm
+  Standard deviation: 0.00319  nm
+C3'-O3'.Res84.HP:
+  Number of samples:  8001
+  Average distance:   0.14475  nm
+  Standard deviation: 0.00329  nm
+C3'-O3'.Res85.HP:
+  Number of samples:  8001
+  Average distance:   0.14478  nm
+  Standard deviation: 0.00326  nm
+C3'-O3'.Res86.HP:
+  Number of samples:  8001
+  Average distance:   0.14465  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res87.HP:
+  Number of samples:  8001
+  Average distance:   0.14451  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res88.HP:
+  Number of samples:  8001
+  Average distance:   0.14453  nm
+  Standard deviation: 0.00329  nm
+C3'-O3'.Res89.HP:
+  Number of samples:  8001
+  Average distance:   0.14435  nm
+  Standard deviation: 0.00321  nm
+C3'-O3'.Res90.HP:
+  Number of samples:  8001
+  Average distance:   0.14436  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res91.HP:
+  Number of samples:  8001
+  Average distance:   0.14436  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res92.HP:
+  Number of samples:  8001
+  Average distance:   0.14430  nm
+  Standard deviation: 0.00326  nm
+C3'-O3'.Res93.HP:
+  Number of samples:  8001
+  Average distance:   0.14427  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res94.HP:
+  Number of samples:  8001
+  Average distance:   0.14417  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res95.HP:
+  Number of samples:  8001
+  Average distance:   0.14417  nm
+  Standard deviation: 0.00322  nm
+C3'-O3'.Res96.HP:
+  Number of samples:  8001
+  Average distance:   0.14436  nm
+  Standard deviation: 0.00331  nm
+C3'-O3'.Res97.HP:
+  Number of samples:  8001
+  Average distance:   0.14428  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res98.HP:
+  Number of samples:  8001
+  Average distance:   0.14422  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res99.HP:
+  Number of samples:  8001
+  Average distance:   0.14430  nm
+  Standard deviation: 0.00332  nm
+C3'-O3'.Res100.HP:
+  Number of samples:  8001
+  Average distance:   0.14438  nm
+  Standard deviation: 0.00327  nm
+C3'-O3'.Res101.HP:
+  Number of samples:  8001
+  Average distance:   0.14408  nm
+  Standard deviation: 0.00324  nm
+C3'-O3'.Res102.HP:
+  Number of samples:  8001
+  Average distance:   0.14411  nm
+  Standard deviation: 0.00328  nm
+C3'-O3'.Res103.HP:
+  Number of samples:  8001
+  Average distance:   0.14438  nm
+  Standard deviation: 0.00323  nm
+C3'-O3'.Res104.HP:
+  Number of samples:  8001
+  Average distance:   0.14235  nm
+  Standard deviation: 0.00313  nm
+O3'-P.Res1.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16202  nm
+  Standard deviation: 0.00373  nm
+O3'-P.Res2.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16235  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res3.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16219  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res4.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16221  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res5.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16224  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res6.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16206  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res7.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16188  nm
+  Standard deviation: 0.00361  nm
+O3'-P.Res8.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16232  nm
+  Standard deviation: 0.00367  nm
+O3'-P.Res9.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16248  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res10.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16258  nm
+  Standard deviation: 0.00373  nm
+O3'-P.Res11.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16253  nm
+  Standard deviation: 0.00370  nm
+O3'-P.Res12.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16246  nm
+  Standard deviation: 0.00367  nm
+O3'-P.Res13.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16227  nm
+  Standard deviation: 0.00365  nm
+O3'-P.Res14.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16256  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res15.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16227  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res16.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16221  nm
+  Standard deviation: 0.00364  nm
+O3'-P.Res17.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16246  nm
+  Standard deviation: 0.00367  nm
+O3'-P.Res18.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16235  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res19.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16233  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res20.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16206  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res21.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16236  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res22.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16231  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res23.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16218  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res24.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16220  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res25.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16193  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res26.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16192  nm
+  Standard deviation: 0.00364  nm
+O3'-P.Res27.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16179  nm
+  Standard deviation: 0.00365  nm
+O3'-P.Res28.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16155  nm
+  Standard deviation: 0.00360  nm
+O3'-P.Res29.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16133  nm
+  Standard deviation: 0.00353  nm
+O3'-P.Res30.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16121  nm
+  Standard deviation: 0.00358  nm
+O3'-P.Res31.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16103  nm
+  Standard deviation: 0.00358  nm
+O3'-P.Res32.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16086  nm
+  Standard deviation: 0.00352  nm
+O3'-P.Res33.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16068  nm
+  Standard deviation: 0.00352  nm
+O3'-P.Res34.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16056  nm
+  Standard deviation: 0.00354  nm
+O3'-P.Res35.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16053  nm
+  Standard deviation: 0.00354  nm
+O3'-P.Res36.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16097  nm
+  Standard deviation: 0.00361  nm
+O3'-P.Res37.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16068  nm
+  Standard deviation: 0.00353  nm
+O3'-P.Res38.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16122  nm
+  Standard deviation: 0.00357  nm
+O3'-P.Res39.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16106  nm
+  Standard deviation: 0.00353  nm
+O3'-P.Res40.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16046  nm
+  Standard deviation: 0.00357  nm
+O3'-P.Res41.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16062  nm
+  Standard deviation: 0.00351  nm
+O3'-P.Res42.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16044  nm
+  Standard deviation: 0.00347  nm
+O3'-P.Res43.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16054  nm
+  Standard deviation: 0.00347  nm
+O3'-P.Res44.5.HP:
+  Number of samples:  8001
+  Average distance:   0.15991  nm
+  Standard deviation: 0.00348  nm
+O3'-P.Res45.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16027  nm
+  Standard deviation: 0.00349  nm
+O3'-P.Res46.5.HP:
+  Number of samples:  8001
+  Average distance:   0.15967  nm
+  Standard deviation: 0.00350  nm
+O3'-P.Res47.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16017  nm
+  Standard deviation: 0.00354  nm
+O3'-P.Res48.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16012  nm
+  Standard deviation: 0.00356  nm
+O3'-P.Res49.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16038  nm
+  Standard deviation: 0.00350  nm
+O3'-P.Res50.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16039  nm
+  Standard deviation: 0.00353  nm
+O3'-P.Res51.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16058  nm
+  Standard deviation: 0.00354  nm
+O3'-P.Res52.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16080  nm
+  Standard deviation: 0.00354  nm
+O3'-P.Res53.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16050  nm
+  Standard deviation: 0.00351  nm
+O3'-P.Res54.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16035  nm
+  Standard deviation: 0.00350  nm
+O3'-P.Res55.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16002  nm
+  Standard deviation: 0.00353  nm
+O3'-P.Res56.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16085  nm
+  Standard deviation: 0.00356  nm
+O3'-P.Res57.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16096  nm
+  Standard deviation: 0.00359  nm
+O3'-P.Res58.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16107  nm
+  Standard deviation: 0.00355  nm
+O3'-P.Res59.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16126  nm
+  Standard deviation: 0.00362  nm
+O3'-P.Res60.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16122  nm
+  Standard deviation: 0.00362  nm
+O3'-P.Res61.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16138  nm
+  Standard deviation: 0.00356  nm
+O3'-P.Res62.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16092  nm
+  Standard deviation: 0.00354  nm
+O3'-P.Res63.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16113  nm
+  Standard deviation: 0.00358  nm
+O3'-P.Res64.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16092  nm
+  Standard deviation: 0.00351  nm
+O3'-P.Res65.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16081  nm
+  Standard deviation: 0.00355  nm
+O3'-P.Res66.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16100  nm
+  Standard deviation: 0.00353  nm
+O3'-P.Res67.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16089  nm
+  Standard deviation: 0.00356  nm
+O3'-P.Res68.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16055  nm
+  Standard deviation: 0.00358  nm
+O3'-P.Res69.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16086  nm
+  Standard deviation: 0.00355  nm
+O3'-P.Res70.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16161  nm
+  Standard deviation: 0.00362  nm
+O3'-P.Res71.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16151  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res72.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16187  nm
+  Standard deviation: 0.00363  nm
+O3'-P.Res73.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16220  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res74.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16205  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res75.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16241  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res76.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16264  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res77.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16283  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res78.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16310  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res79.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16301  nm
+  Standard deviation: 0.00381  nm
+O3'-P.Res80.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16316  nm
+  Standard deviation: 0.00373  nm
+O3'-P.Res81.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16320  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res82.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16321  nm
+  Standard deviation: 0.00377  nm
+O3'-P.Res83.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16342  nm
+  Standard deviation: 0.00379  nm
+O3'-P.Res84.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16300  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res85.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16263  nm
+  Standard deviation: 0.00370  nm
+O3'-P.Res86.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16260  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res87.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16278  nm
+  Standard deviation: 0.00370  nm
+O3'-P.Res88.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16272  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res89.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16262  nm
+  Standard deviation: 0.00374  nm
+O3'-P.Res90.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16259  nm
+  Standard deviation: 0.00368  nm
+O3'-P.Res91.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16226  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res92.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16231  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res93.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16237  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res94.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16240  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res95.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16251  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res96.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16204  nm
+  Standard deviation: 0.00369  nm
+O3'-P.Res97.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16236  nm
+  Standard deviation: 0.00367  nm
+O3'-P.Res98.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16227  nm
+  Standard deviation: 0.00372  nm
+O3'-P.Res99.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16247  nm
+  Standard deviation: 0.00371  nm
+O3'-P.Res100.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16206  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res101.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16219  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res102.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16238  nm
+  Standard deviation: 0.00366  nm
+O3'-P.Res103.5.HP:
+  Number of samples:  8001
+  Average distance:   0.16262  nm
+  Standard deviation: 0.00375  nm
+P-O5'.Res2.HP:
+  Number of samples:  8001
+  Average distance:   0.16240  nm
+  Standard deviation: 0.00371  nm
+P-O5'.Res3.HP:
+  Number of samples:  8001
+  Average distance:   0.16232  nm
+  Standard deviation: 0.00362  nm
+P-O5'.Res4.HP:
+  Number of samples:  8001
+  Average distance:   0.16221  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res5.HP:
+  Number of samples:  8001
+  Average distance:   0.16224  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res6.HP:
+  Number of samples:  8001
+  Average distance:   0.16216  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res7.HP:
+  Number of samples:  8001
+  Average distance:   0.16218  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res8.HP:
+  Number of samples:  8001
+  Average distance:   0.16195  nm
+  Standard deviation: 0.00369  nm
+P-O5'.Res9.HP:
+  Number of samples:  8001
+  Average distance:   0.16145  nm
+  Standard deviation: 0.00362  nm
+P-O5'.Res10.HP:
+  Number of samples:  8001
+  Average distance:   0.16285  nm
+  Standard deviation: 0.00374  nm
+P-O5'.Res11.HP:
+  Number of samples:  8001
+  Average distance:   0.16246  nm
+  Standard deviation: 0.00363  nm
+P-O5'.Res12.HP:
+  Number of samples:  8001
+  Average distance:   0.16280  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res13.HP:
+  Number of samples:  8001
+  Average distance:   0.16257  nm
+  Standard deviation: 0.00374  nm
+P-O5'.Res14.HP:
+  Number of samples:  8001
+  Average distance:   0.16241  nm
+  Standard deviation: 0.00371  nm
+P-O5'.Res15.HP:
+  Number of samples:  8001
+  Average distance:   0.16258  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res16.HP:
+  Number of samples:  8001
+  Average distance:   0.16244  nm
+  Standard deviation: 0.00376  nm
+P-O5'.Res17.HP:
+  Number of samples:  8001
+  Average distance:   0.16235  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res18.HP:
+  Number of samples:  8001
+  Average distance:   0.16248  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res19.HP:
+  Number of samples:  8001
+  Average distance:   0.16253  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res20.HP:
+  Number of samples:  8001
+  Average distance:   0.16227  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res21.HP:
+  Number of samples:  8001
+  Average distance:   0.16223  nm
+  Standard deviation: 0.00369  nm
+P-O5'.Res22.HP:
+  Number of samples:  8001
+  Average distance:   0.16228  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res23.HP:
+  Number of samples:  8001
+  Average distance:   0.16163  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res24.HP:
+  Number of samples:  8001
+  Average distance:   0.16254  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res25.HP:
+  Number of samples:  8001
+  Average distance:   0.16165  nm
+  Standard deviation: 0.00364  nm
+P-O5'.Res26.HP:
+  Number of samples:  8001
+  Average distance:   0.16243  nm
+  Standard deviation: 0.00375  nm
+P-O5'.Res27.HP:
+  Number of samples:  8001
+  Average distance:   0.16168  nm
+  Standard deviation: 0.00360  nm
+P-O5'.Res28.HP:
+  Number of samples:  8001
+  Average distance:   0.16159  nm
+  Standard deviation: 0.00358  nm
+P-O5'.Res29.HP:
+  Number of samples:  8001
+  Average distance:   0.16145  nm
+  Standard deviation: 0.00361  nm
+P-O5'.Res30.HP:
+  Number of samples:  8001
+  Average distance:   0.16149  nm
+  Standard deviation: 0.00363  nm
+P-O5'.Res31.HP:
+  Number of samples:  8001
+  Average distance:   0.16129  nm
+  Standard deviation: 0.00357  nm
+P-O5'.Res32.HP:
+  Number of samples:  8001
+  Average distance:   0.16112  nm
+  Standard deviation: 0.00355  nm
+P-O5'.Res33.HP:
+  Number of samples:  8001
+  Average distance:   0.16089  nm
+  Standard deviation: 0.00358  nm
+P-O5'.Res34.HP:
+  Number of samples:  8001
+  Average distance:   0.16039  nm
+  Standard deviation: 0.00360  nm
+P-O5'.Res35.HP:
+  Number of samples:  8001
+  Average distance:   0.16066  nm
+  Standard deviation: 0.00350  nm
+P-O5'.Res36.HP:
+  Number of samples:  8001
+  Average distance:   0.16061  nm
+  Standard deviation: 0.00353  nm
+P-O5'.Res37.HP:
+  Number of samples:  8001
+  Average distance:   0.16098  nm
+  Standard deviation: 0.00356  nm
+P-O5'.Res38.HP:
+  Number of samples:  8001
+  Average distance:   0.16087  nm
+  Standard deviation: 0.00349  nm
+P-O5'.Res39.HP:
+  Number of samples:  8001
+  Average distance:   0.16089  nm
+  Standard deviation: 0.00352  nm
+P-O5'.Res40.HP:
+  Number of samples:  8001
+  Average distance:   0.16086  nm
+  Standard deviation: 0.00353  nm
+P-O5'.Res41.HP:
+  Number of samples:  8001
+  Average distance:   0.16060  nm
+  Standard deviation: 0.00352  nm
+P-O5'.Res42.HP:
+  Number of samples:  8001
+  Average distance:   0.16063  nm
+  Standard deviation: 0.00352  nm
+P-O5'.Res43.HP:
+  Number of samples:  8001
+  Average distance:   0.16044  nm
+  Standard deviation: 0.00349  nm
+P-O5'.Res44.HP:
+  Number of samples:  8001
+  Average distance:   0.16002  nm
+  Standard deviation: 0.00350  nm
+P-O5'.Res45.HP:
+  Number of samples:  8001
+  Average distance:   0.16011  nm
+  Standard deviation: 0.00350  nm
+P-O5'.Res46.HP:
+  Number of samples:  8001
+  Average distance:   0.16022  nm
+  Standard deviation: 0.00351  nm
+P-O5'.Res47.HP:
+  Number of samples:  8001
+  Average distance:   0.15991  nm
+  Standard deviation: 0.00349  nm
+P-O5'.Res48.HP:
+  Number of samples:  8001
+  Average distance:   0.15995  nm
+  Standard deviation: 0.00347  nm
+P-O5'.Res49.HP:
+  Number of samples:  8001
+  Average distance:   0.15954  nm
+  Standard deviation: 0.00345  nm
+P-O5'.Res50.HP:
+  Number of samples:  8001
+  Average distance:   0.15987  nm
+  Standard deviation: 0.00345  nm
+P-O5'.Res51.HP:
+  Number of samples:  8001
+  Average distance:   0.15991  nm
+  Standard deviation: 0.00350  nm
+P-O5'.Res52.HP:
+  Number of samples:  8001
+  Average distance:   0.16072  nm
+  Standard deviation: 0.00353  nm
+P-O5'.Res53.HP:
+  Number of samples:  8001
+  Average distance:   0.16057  nm
+  Standard deviation: 0.00353  nm
+P-O5'.Res54.HP:
+  Number of samples:  8001
+  Average distance:   0.16034  nm
+  Standard deviation: 0.00349  nm
+P-O5'.Res55.HP:
+  Number of samples:  8001
+  Average distance:   0.16042  nm
+  Standard deviation: 0.00354  nm
+P-O5'.Res56.HP:
+  Number of samples:  8001
+  Average distance:   0.16049  nm
+  Standard deviation: 0.00350  nm
+P-O5'.Res57.HP:
+  Number of samples:  8001
+  Average distance:   0.16095  nm
+  Standard deviation: 0.00352  nm
+P-O5'.Res58.HP:
+  Number of samples:  8001
+  Average distance:   0.16103  nm
+  Standard deviation: 0.00352  nm
+P-O5'.Res59.HP:
+  Number of samples:  8001
+  Average distance:   0.16117  nm
+  Standard deviation: 0.00358  nm
+P-O5'.Res60.HP:
+  Number of samples:  8001
+  Average distance:   0.16111  nm
+  Standard deviation: 0.00359  nm
+P-O5'.Res61.HP:
+  Number of samples:  8001
+  Average distance:   0.16126  nm
+  Standard deviation: 0.00361  nm
+P-O5'.Res62.HP:
+  Number of samples:  8001
+  Average distance:   0.16127  nm
+  Standard deviation: 0.00359  nm
+P-O5'.Res63.HP:
+  Number of samples:  8001
+  Average distance:   0.16104  nm
+  Standard deviation: 0.00360  nm
+P-O5'.Res64.HP:
+  Number of samples:  8001
+  Average distance:   0.16086  nm
+  Standard deviation: 0.00357  nm
+P-O5'.Res65.HP:
+  Number of samples:  8001
+  Average distance:   0.16066  nm
+  Standard deviation: 0.00353  nm
+P-O5'.Res66.HP:
+  Number of samples:  8001
+  Average distance:   0.16074  nm
+  Standard deviation: 0.00350  nm
+P-O5'.Res67.HP:
+  Number of samples:  8001
+  Average distance:   0.16067  nm
+  Standard deviation: 0.00353  nm
+P-O5'.Res68.HP:
+  Number of samples:  8001
+  Average distance:   0.16063  nm
+  Standard deviation: 0.00359  nm
+P-O5'.Res69.HP:
+  Number of samples:  8001
+  Average distance:   0.16098  nm
+  Standard deviation: 0.00363  nm
+P-O5'.Res70.HP:
+  Number of samples:  8001
+  Average distance:   0.16105  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res71.HP:
+  Number of samples:  8001
+  Average distance:   0.16105  nm
+  Standard deviation: 0.00362  nm
+P-O5'.Res72.HP:
+  Number of samples:  8001
+  Average distance:   0.16140  nm
+  Standard deviation: 0.00364  nm
+P-O5'.Res73.HP:
+  Number of samples:  8001
+  Average distance:   0.16124  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res74.HP:
+  Number of samples:  8001
+  Average distance:   0.16167  nm
+  Standard deviation: 0.00362  nm
+P-O5'.Res75.HP:
+  Number of samples:  8001
+  Average distance:   0.16153  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res76.HP:
+  Number of samples:  8001
+  Average distance:   0.16159  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res77.HP:
+  Number of samples:  8001
+  Average distance:   0.16202  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res78.HP:
+  Number of samples:  8001
+  Average distance:   0.16213  nm
+  Standard deviation: 0.00367  nm
+P-O5'.Res79.HP:
+  Number of samples:  8001
+  Average distance:   0.16186  nm
+  Standard deviation: 0.00364  nm
+P-O5'.Res80.HP:
+  Number of samples:  8001
+  Average distance:   0.16344  nm
+  Standard deviation: 0.00375  nm
+P-O5'.Res81.HP:
+  Number of samples:  8001
+  Average distance:   0.16298  nm
+  Standard deviation: 0.00376  nm
+P-O5'.Res82.HP:
+  Number of samples:  8001
+  Average distance:   0.16290  nm
+  Standard deviation: 0.00374  nm
+P-O5'.Res83.HP:
+  Number of samples:  8001
+  Average distance:   0.16232  nm
+  Standard deviation: 0.00378  nm
+P-O5'.Res84.HP:
+  Number of samples:  8001
+  Average distance:   0.16378  nm
+  Standard deviation: 0.00380  nm
+P-O5'.Res85.HP:
+  Number of samples:  8001
+  Average distance:   0.16314  nm
+  Standard deviation: 0.00378  nm
+P-O5'.Res86.HP:
+  Number of samples:  8001
+  Average distance:   0.16293  nm
+  Standard deviation: 0.00373  nm
+P-O5'.Res87.HP:
+  Number of samples:  8001
+  Average distance:   0.16293  nm
+  Standard deviation: 0.00375  nm
+P-O5'.Res88.HP:
+  Number of samples:  8001
+  Average distance:   0.16275  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res89.HP:
+  Number of samples:  8001
+  Average distance:   0.16272  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res90.HP:
+  Number of samples:  8001
+  Average distance:   0.16255  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res91.HP:
+  Number of samples:  8001
+  Average distance:   0.16255  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res92.HP:
+  Number of samples:  8001
+  Average distance:   0.16248  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res93.HP:
+  Number of samples:  8001
+  Average distance:   0.16243  nm
+  Standard deviation: 0.00369  nm
+P-O5'.Res94.HP:
+  Number of samples:  8001
+  Average distance:   0.16227  nm
+  Standard deviation: 0.00366  nm
+P-O5'.Res95.HP:
+  Number of samples:  8001
+  Average distance:   0.16238  nm
+  Standard deviation: 0.00365  nm
+P-O5'.Res96.HP:
+  Number of samples:  8001
+  Average distance:   0.16242  nm
+  Standard deviation: 0.00372  nm
+P-O5'.Res97.HP:
+  Number of samples:  8001
+  Average distance:   0.16240  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res98.HP:
+  Number of samples:  8001
+  Average distance:   0.16247  nm
+  Standard deviation: 0.00370  nm
+P-O5'.Res99.HP:
+  Number of samples:  8001
+  Average distance:   0.16234  nm
+  Standard deviation: 0.00374  nm
+P-O5'.Res100.HP:
+  Number of samples:  8001
+  Average distance:   0.16242  nm
+  Standard deviation: 0.00375  nm
+P-O5'.Res101.HP:
+  Number of samples:  8001
+  Average distance:   0.16224  nm
+  Standard deviation: 0.00371  nm
+P-O5'.Res102.HP:
+  Number of samples:  8001
+  Average distance:   0.16210  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res103.HP:
+  Number of samples:  8001
+  Average distance:   0.16209  nm
+  Standard deviation: 0.00368  nm
+P-O5'.Res104.HP:
+  Number of samples:  8001
+  Average distance:   0.16180  nm
+  Standard deviation: 0.00369  nm

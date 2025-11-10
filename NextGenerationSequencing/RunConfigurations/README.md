@@ -1,4 +1,5 @@
-How to create an input file for the matching algorithm:
+## How to create an input file for the matching algorithm:
+
 Provide the following fields: data_directory, graphics_directory, data_export_directory, sample_names, sample_sequences, nicking_pos, sample_files, secondary_sequences, secondary_nicking_pos
 -> data_directory: Directory path where the raw data is saved
 -> graphics_directory: Directory where graphics are will be saved to

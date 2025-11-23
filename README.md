@@ -25,10 +25,10 @@ Any other code (.py) runs with in a common python3 enviroment (tested with Pytho
 # What is included?
 
 ## Next Generation Sequencing Analysis Pipeline
-Here, a full analysis pipeline for NGS data (.fastq) is provided. The raw data can be downloaded from ZENODO. NGSFilteringAlgorithm.py performs the analysis of NGS data based on a custom config file provided in the RunConfigurations directory. Additionally, all further analysis of sequencing data and the creation of plots are available in DistributionAnalysisHairpins.py, DistributionAnalysisNickedDNA.py, PlottingHairpins.py, and PlottingHairpinsSelfAssembly.py.
+Here, a full analysis pipeline for NGS data (.fastq) is provided. The raw data can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.17692058). NGSFilteringAlgorithm.py performs the analysis of NGS data based on a custom config file provided in the RunConfigurations directory. Additionally, all further analysis of sequencing data and the creation of plots are available in DistributionAnalysisHairpins.py, DistributionAnalysisNickedDNA.py, PlottingHairpins.py, and PlottingHairpinsSelfAssembly.py.
 
 ## Molecular Dynamics
-Here, the full code to set up the simulations on an HPC environment is provided. In SimulationSetup/, the PDB files and required input files are located. In DataExtraction/, the scripts for processing trajectories are found. The raw trajectory data can be obtained from ZENODO. Additionally, in Analysis/, the Python code for further analysis of end-to-end distances and bond forces, as well as the code for visualization, is provided.
+Here, the full code to set up the simulations on an HPC environment is provided. In SimulationSetup/, the PDB files and required input files are located. In DataExtraction/, the scripts for processing trajectories are found. The raw trajectory data can be obtained from [Zenodo](https://doi.org/10.5281/zenodo.17692058). Additionally, in Analysis/, the Python code for further analysis of end-to-end distances and bond forces, as well as the code for visualization, is provided.
 
 # Questions
 For any questions regarding the provided software please contact Boris N. Schüpp (boris.schuepp@mtl.maxplanckschools.de).

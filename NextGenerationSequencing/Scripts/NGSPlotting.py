@@ -51,11 +51,7 @@ class PlottingNGS:
             cur_data_y = [cur_data[x_i] for x_i in cur_data_x]
             axis = axs[i]
 
-            x_all = np.array(sorted({float(v) for v in cur_data_x}), dtype=float)
-            if len(x_all) >= 2:
-                step = float(np.min(np.diff(x_all)))
-            else:
-                step = 1.0
+            step = 1.0
             bar_width = step * 0.9
 
             def to_left_edges(xc):
@@ -101,11 +97,25 @@ class PlottingNGS:
 
             axis.set_xticks(x_ticks, x_tick_labels)
 
-            if fit:
-                df, mu, sigma, iqr, x_fit, y_fit = fit_student({x_i: y_i for x_i, y_i in zip(cur_data_x, cur_data_y)},
-                                                               True)
-                plt.plot(x_fit, y_fit, color="red", linewidth=1.0)
-                y_limit = max(max(y_fit) + 0.001, y_limit)
+            data_dict = {x_i: y_i for x_i, y_i in zip(cur_data_x, cur_data_y)}
+            if fit == "t-student":
+                df, mu, sigma, iqr, x_fit, y_fit = fit_student(data_dict, True)
+                label = f"Student's $t$ fit\nIQR = {iqr:.2f}"
+                axis.plot(x_fit, y_fit, color="red", linewidth=0.6, label=label)
+                y_limit = max(float(np.max(y_fit)) + 0.001, y_limit)
+
+            elif fit == "t-bimodal":
+                c1, c2, x_fit, y_fit, y1, y2 = fit_student_bimodal(data_dict, True)
+
+                (a1, df1, mu1, sigma1, iqr1) = c1
+                (a2, df2, mu2, sigma2, iqr2) = c2
+
+                label = (
+                    "Bimodal Student's $t$ fit\n"
+                    f"IQR₁ = {iqr1:.2f}, IQR₂ = {iqr2:.2f}"
+                )
+
+                axis.plot(x_fit, y_fit, color="red", linewidth=0.6, label=label)
 
         plt.tight_layout()
 
@@ -132,6 +142,7 @@ class PlottingNGS:
                 0]
             data_er = [breaking_data[i] for i in breaking_data.keys() if i.find("BOT") != -1 and i.find("STD") != -1][0]
 
+
         if len(data) == 0:
             print("Data is not correct, please try again")
 
@@ -139,7 +150,6 @@ class PlottingNGS:
         x_data = list(data.keys())
         y_data = [data[i] for i in x_data]
         data_er = [data_er[i] for i in x_data]
-
         apply_plot_config(default_plot_config)
 
         fig, ax = plt.subplots()
@@ -216,16 +226,31 @@ class PlottingNGS:
         # Plot fit
         mu = None
         iqr = None
-        if fit:
-            df, mu, sigma, iqr, x_fit, y_fit = fit_student(dict(zip(x_data, y_data)), True)
+        data_dict = dict(zip(x_data, y_data))
+
+        if fit == "t-student":
+            df, mu, sigma, iqr, x_fit, y_fit = fit_student(data_dict, True)
             label = f"Student's $t$ fit\nIQR = {iqr:.2f}"
             ax.plot(x_fit, y_fit, color="red", linewidth=0.6, label=label)
-            y_limit = max(max(y_fit) + 0.001, y_limit)
+            y_limit = max(float(np.max(y_fit)) + 0.001, y_limit)
+
+        elif fit == "t-bimodal":
+            c1, c2, x_fit, y_fit, y1, y2 = fit_student_bimodal(data_dict, True)
+
+            (a1, df1, mu1, sigma1, iqr1) = c1
+            (a2, df2, mu2, sigma2, iqr2) = c2
+
+            label = (
+                "Bimodal Student's $t$ fit\n"
+                f"IQR₁ = {iqr1:.2f}, IQR₂ = {iqr2:.2f}"
+            )
+
+            ax.plot(x_fit, y_fit, color="red", linewidth=0.6, label=label)
 
         # Format figure
         ax.set_xlabel("Relative fragment break index")
         ax.set_ylabel("Fraction of reads")
-        ax.set_xlim(min(x_data), max(x_data))
+        ax.set_xlim(-50, 50)
         ax.set_ylim(0, y_limit)
         x_ticks = [i for i in range(int(min(x_data)), int(max(x_data))) if i % 20 == 0]
         x_tick_labels = [str(round(int(i))) for i in x_ticks]
@@ -246,10 +271,172 @@ class PlottingNGS:
             plt.clf()
         plt.close()
 
-        if fit:
+        if fit == "t-student":
             return mu, iqr
+        elif fit == "t-bimodal":
+            return mu1, iqr1
         else:
             return None, None
+
+
+    def plot_single_breaking_data(self, file_name_in, proc_directory_in, strand,
+                                          color=(0, 0, 0, 1), save_path=None, legend=None):
+
+        # Read data
+        breaking_data = read_breaking_results([file_name_in], proc_directory_in)
+        if strand == "TOP":
+            data = [breaking_data[i] for i in breaking_data.keys() if i.find("TOP") != -1 and i.find("AVERAGE") != -1][
+                0]
+        else:
+            data = [breaking_data[i] for i in breaking_data.keys() if i.find("BOT") != -1 and i.find("AVERAGE") != -1][
+                0]
+
+        if len(data) == 0:
+            print("Data is not correct, please try again")
+
+        data = {i: data[i] for i in data.keys() if data[i] != 0}
+        x_data = list(data.keys())
+        y_data = [data[i] for i in x_data]
+        apply_plot_config(default_plot_config)
+
+        fig, ax = plt.subplots()
+
+        x_all = np.array(sorted({float(v) for v in x_data}), dtype=float)
+        if len(x_all) >= 2:
+            step = float(np.min(np.diff(x_all)))
+        else:
+            step = 1.0
+        bar_width = step * 0.75
+
+        def to_left_edges(xc):
+            xc = np.asarray(xc, dtype=float)
+            return xc - bar_width / 2.0
+
+        # Grey out artifacts
+        old_data_y = [0]
+
+
+        y_limit = max(y_data) + 0.001
+        y_limit = max(y_limit, max(old_data_y))
+
+        # main bars with the same width + caps-only error bars
+        ax.bar(
+            to_left_edges(x_data), y_data, color=color,
+            edgecolor='none', linewidth=1,  # match your overlay look
+            width=bar_width, align='edge', antialiased=False,
+            capsize=1,
+            error_kw={
+                'ecolor': self.colors["DarkGrey"],
+                'elinewidth': 0.2,  # thin stem (use 0 to hide)
+                'capthick': 0.2
+            },
+        )
+        # Format figure
+        ax.set_xlabel("Relative fragment break index")
+        ax.set_ylabel("Fraction of reads")
+        ax.set_xlim(-300, 300)
+        ax.set_ylim(0, y_limit)
+        x_ticks = [i for i in range(int(min(x_data)), int(max(x_data))) if i % 100 == 0]
+        x_tick_labels = [str(round(int(i))) for i in x_ticks]
+        x_tick_labels_fixed = [("+" + t_i) if int(t_i) > 0 else t_i for t_i in x_tick_labels]
+        ax.set_xticks(x_ticks)
+        ax.set_xticklabels(x_tick_labels_fixed)
+
+        if legend:
+            ax.legend(loc="upper left", handlelength=1.0, handletextpad=0.6)  # top-right corner
+
+        plt.tight_layout()
+
+        # Save image
+        if save_path:
+            plt.savefig(save_path)
+        else:
+            plt.show()
+            plt.clf()
+        plt.close()
+
+
+    def plot_single_breaking_data_window(self, file_name_in, proc_directory_in, strand,
+                                          color=(0, 0, 0, 1), window=15,  save_path=None, legend=None):
+
+        # Read data
+        breaking_data = read_breaking_results([file_name_in], proc_directory_in)
+        if strand == "TOP":
+            data = [breaking_data[i] for i in breaking_data.keys() if i.find("TOP") != -1 and i.find("AVERAGE") != -1][
+                0]
+        else:
+            data = [breaking_data[i] for i in breaking_data.keys() if i.find("BOT") != -1 and i.find("AVERAGE") != -1][
+                0]
+
+        if len(data) == 0:
+            print("Data is not correct, please try again")
+
+        data = {i: data[i] for i in data.keys() if data[i] != 0}
+        x_data = list(data.keys())
+        y_data = [data[i] for i in x_data]
+        apply_plot_config(default_plot_config)
+
+        y_data_windowed = []
+        for i in range(window, len(x_data)-window):
+            y_data_windowed.append(window*2*y_data[i]/sum(y_data[i-window:i+window]))
+        x_data = x_data[window:len(x_data)-window]
+        y_data = y_data_windowed
+
+        fig, ax = plt.subplots()
+
+        x_all = np.array(sorted({float(v) for v in x_data}), dtype=float)
+        if len(x_all) >= 2:
+            step = float(np.min(np.diff(x_all)))
+        else:
+            step = 1.0
+        bar_width = step * 0.75
+
+        def to_left_edges(xc):
+            xc = np.asarray(xc, dtype=float)
+            return xc - bar_width / 2.0
+
+        # Grey out artifacts
+        old_data_y = [0]
+
+
+        y_limit = max(y_data) + 0.001
+        y_limit = max(y_limit, max(old_data_y))
+
+        # main bars with the same width + caps-only error bars
+        ax.bar(
+            to_left_edges(x_data), y_data, color=color,
+            edgecolor='none', linewidth=1,  # match your overlay look
+            width=bar_width, align='edge', antialiased=False,
+            capsize=1,
+            error_kw={
+                'ecolor': self.colors["DarkGrey"],
+                'elinewidth': 0.2,  # thin stem (use 0 to hide)
+                'capthick': 0.2
+            },
+        )
+        # Format figure
+        ax.set_xlabel("Relative fragment break index")
+        ax.set_ylabel("Relative breaking intensity")
+        ax.set_xlim(-250, 250)
+        ax.set_ylim(0, y_limit)
+        x_ticks = [i for i in range(int(min(x_data)), int(max(x_data))) if i % 100 == 0]
+        x_tick_labels = [str(round(int(i))) for i in x_ticks]
+        x_tick_labels_fixed = [("+" + t_i) if int(t_i) > 0 else t_i for t_i in x_tick_labels]
+        ax.set_xticks(x_ticks)
+        ax.set_xticklabels(x_tick_labels_fixed)
+
+        if legend:
+            ax.legend(loc="upper left", handlelength=1.0, handletextpad=0.6)  # top-right corner
+
+        plt.tight_layout()
+
+        # Save image
+        if save_path:
+            plt.savefig(save_path)
+        else:
+            plt.show()
+            plt.clf()
+        plt.close()
 
     @staticmethod
     def plot_fit_paramameter_scatter_single(file_names_in, directory_in, parameter_name, sample_names,
@@ -299,7 +486,7 @@ class PlottingNGS:
             plt.clf()
         plt.close()
 
-    def plot_overlay_histogramm(self, file_names_in, directory_in, colors, strand, sample_names, save_path=None,
+    def plot_overlay_histogramm(self, file_names_in, directory_in, colors, strand, sample_names, fits, save_path=None,
                                 bars=None, legend_size=None):
 
         data_breaking_all = read_breaking_results(file_names_in, directory_in)
@@ -324,11 +511,7 @@ class PlottingNGS:
         all_x = []
         for s in plotting_dict:
             all_x.extend(plotting_dict[s]["AVERAGE"].keys())
-        all_x = np.array(sorted({float(v) for v in all_x}), dtype=float)
-        if len(all_x) >= 2:
-            step = float(np.min(np.diff(all_x)))
-        else:
-            step = 1.0
+        step = 1.0
         bar_width = step
 
         def to_left_edges(xc):
@@ -338,7 +521,7 @@ class PlottingNGS:
         shift = len(file_names_in) * 0.03 - 0.03
         x_min, x_max = 1e9, -1e9
 
-        for sample, color in zip(plotting_dict.keys(), colors):
+        for sample, color, fit in zip(plotting_dict.keys(), colors, fits):
             x_centers = list(plotting_dict[sample]["AVERAGE"].keys())
             y = list(plotting_dict[sample]["AVERAGE"].values())
             y_er = list(plotting_dict[sample]["STD"].values())
@@ -404,9 +587,15 @@ class PlottingNGS:
             x_min = min(x_min, float(min(x_centers)))
             x_max = max(x_max, float(max(x_centers)))
 
-            df, mu, sigma, iqr, x_fit, y_fit = fit_student({x_i: y_i for x_i, y_i in zip(x_centers, y)}, True)
-            y_fit = [v + shift for v in y_fit]
-            ax.plot(x_fit, y_fit, color="black", linewidth=0.6)
+            data_dict = {x_i: y_i for x_i, y_i in zip(x_centers, y)}
+
+            if fit == "t-student":
+                df, mu, sigma, iqr, x_fit, y_fit = fit_student(data_dict, True)
+                ax.plot(x_fit, [y+shift for y in y_fit], color="black", linewidth=0.6)
+            elif fit == "t-bimodal":
+                c1, c2, x_fit, y_fit, y1, y2 = fit_student_bimodal(data_dict, True)
+                ax.plot(x_fit, [y+shift for y in y_fit], color="black", linewidth=0.6)
+
             shift -= 0.03
             ax.set_ylim(0)
 

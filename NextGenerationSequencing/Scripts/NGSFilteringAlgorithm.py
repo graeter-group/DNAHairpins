@@ -167,7 +167,7 @@ def average_break_counts(break_counts_group_in):
 
 
 # Global properties
-config_file_path = "../RunConfigurations/Config_704_AT_GC_400_1500_ATMi.txt"
+config_file_path = "../RunConfigurations/Config_Hairpins.txt"
 normalization_window = 50
 
 # Read in configuration
@@ -212,7 +212,7 @@ for (paired_read_sample_path, sample_name, sample_sequence, secondary_sequence,
     cur_breaking_data_norm_shifted, cur_reads_matched, cur_filtering_acc = match_reads_single(
         [data_read_1, data_read_2],
         both_sequences, sample_name, data_export_dir,
-        centroids, 50)
+        centroids, normalization_window)
 
 # Grouped analysis
 group_sample_names_norm_shifted = []

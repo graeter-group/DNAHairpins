@@ -1,0 +1,6 @@
+2026-01-28, 14:26:50: Starting analysis always using the entire read and normalization_window = 300.
+2026-01-28, 14:26:50: dsDNA_1: Number of raw single reads are 221089 (read 1) and 221089 (read 2).
+2026-01-28, 14:26:58: dsDNA_1: Invalid reads 26.11 %
+2026-01-28, 14:26:58: dsDNA_2: Number of raw single reads are 167670 (read 1) and 167670 (read 2).
+2026-01-28, 14:27:05: dsDNA_2: Invalid reads 19.72 %
+2026-01-28, 14:27:05: Run finished after 15.0 s.

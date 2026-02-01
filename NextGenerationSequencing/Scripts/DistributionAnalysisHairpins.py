@@ -22,12 +22,18 @@ def remove_bars(data_in, bars_in):
 
 
 INCLUDE_CONTROL = False
-sample_groups = ["HP4.0.4", "HP0.0.4", "HP0.4.4", "HP0.6.4", "HP0.10.4"]
+sample_groups = ["HP4.0.4", "HP0.0.4", "HP0.4.4", "HP0.6.4", "HP0.10.4", "HP0.6.0", "HP0.6.8", "HP4.6.4", "HP5.6.4", "HP0.6.4.GC"]
 
 colors = {"HP0.10.4": (0.192, 0.627, 0.204, 1.0),
           "HP0.6.4": (0.580, 0.404, 0.741, 1.0),
           "HP0.4.4": (0.690196, 0.0, 0.125490, 1.0),
-          "HP0.0.4": (1.000, 0.498, 0.0, 1.0)}
+          "HP0.0.4": (1.000, 0.498, 0.0, 1.0),
+          "HP0.6.0": (1.000, 0.498, 0.0, 1.0),
+          "HP0.6.8": (1.000, 0.498, 0.0, 1.0),
+          "HP4.6.4": (1.000, 0.498, 0.0, 1.0),
+          "HP5.6.4": (1.000, 0.498, 0.0, 1.0),
+          "HP0.6.4.GC": (1.000, 1.000, 1.0, 1.0)
+          }
 
 sample_name_dict = {
     "HP0.6.4": "Hp(0,6,4)",
@@ -44,6 +50,21 @@ sample_name_dict = {
 
     "HP4.0.4": "Hp(4,0,4)",
     "HP404": "Hp(4,0,4)",
+
+    "HP0.6.0": "Hp(0,6,0)",
+    "HP060": "Hp(0,6,0)",
+
+    "HP0.6.8": "Hp(0,6,8)",
+    "HP068": "Hp(0,6,8)",
+
+    "HP4.6.4": "Hp(4,6,4)",
+    "HP464": "Hp(4,6,4)",
+
+    "HP5.6.4": "Hp(5,6,4)",
+    "HP564": "Hp(5,6,4)",
+
+    "HP0.6.4.GC": "Hp(0,6,4) mod",
+    "HP064GC": "Hp(0,6,4) mod"
 }
 
 runs = [1, 2, 3]
@@ -53,10 +74,12 @@ graphics_dir = "../Graphics/Hairpins/"
 
 # Ligation positions
 bars_top = {"HP0.0.4": [-28.5, 29.5], "HP0.4.4": [-32.5, 33.5], "HP0.10.4": [-38.5, 39.5],
-            "HP4.0.4": [-28.5, 29.5], "HP0.6.4": [-34.5, 35.5]}
+            "HP4.0.4": [-28.5, 29.5], "HP0.6.4": [-34.5, 35.5], "HP0.6.0": [-32.5, 33.5],
+            "HP0.6.8": [-36.5, 37.5], "HP4.6.4": [-34.5, 35.5], "HP5.6.4": [-34.5, 35.5], "HP0.6.4.GC": [-34.5, 35.5]}
 
 bars_bot = {"HP0.0.4": [-30.5, 31.5], "HP0.4.4": [-30.5, 31.5], "HP0.10.4": [-30.5, 31.5],
-            "HP4.0.4": [-32.5, 33.5], "HP0.6.4": [-30.5, 31.5]}
+            "HP4.0.4": [-32.5, 33.5], "HP0.6.4": [-30.5, 31.5], "HP0.6.0": [-30.5, 31.5],
+            "HP0.6.8": [-30.5, 31.5], "HP4.6.4": [-32.5, 33.5], "HP5.6.4": [-33, 34], "HP0.6.4.GC": [-30.5, 31.5]}
 
 widths_top = {}
 centers_top = {}
@@ -106,90 +129,109 @@ for sample_group in sample_groups:
           f"IQR: {average_width_top} +/- {std_width_top}, Bot: Mu: {average_mu_bot} +/- {std_mu_bot}, "
           f"IQR: {average_width_bot} +/- {std_width_bot}")
 
-# Statistics per variational group
-out_matrix_exact_mu_top = np.zeros((len(sample_groups), len(sample_groups)))
-out_matrix_exact_width_top = np.zeros((len(sample_groups), len(sample_groups)))
-out_matrix_exact_mu_bot = np.zeros((len(sample_groups), len(sample_groups)))
-out_matrix_exact_width_bot = np.zeros((len(sample_groups), len(sample_groups)))
 
-for i in range(0, len(sample_groups)):
-    for j in range(0, len(sample_groups)):
-        group_a = [centers_top[a] for a in centers_top.keys() if a.startswith(sample_groups[i])]
-        group_b = [centers_top[a] for a in centers_top.keys() if a.startswith(sample_groups[j])]
-        out_matrix_exact_mu_top[i][j] = stats.f_oneway(group_a, group_b).pvalue
-        group_a = [widths_top[a] for a in widths_top.keys() if a.startswith(sample_groups[i])]
-        group_b = [widths_top[a] for a in widths_top.keys() if a.startswith(sample_groups[j])]
-        out_matrix_exact_width_top[i][j] = stats.f_oneway(group_a, group_b).pvalue
-        group_a = [centers_bot[a] for a in centers_bot.keys() if a.startswith(sample_groups[i])]
-        group_b = [centers_bot[a] for a in centers_bot.keys() if a.startswith(sample_groups[j])]
-        out_matrix_exact_mu_bot[i][j] = stats.f_oneway(group_a, group_b).pvalue
-        group_a = [widths_bot[a] for a in widths_bot.keys() if a.startswith(sample_groups[i])]
-        group_b = [widths_bot[a] for a in widths_bot.keys() if a.startswith(sample_groups[j])]
-        out_matrix_exact_width_bot[i][j] = stats.f_oneway(group_a, group_b).pvalue
+sample_group_stem = ["HP0.0.4", "HP0.4.4", "HP0.6.4", "HP0.10.4"]
+sample_group_loop = ["HP0.6.0", "HP0.6.4", "HP0.6.8"]
+sample_group_unpaired = ["HP0.6.4", "HP4.6.4", "HP5.6.4"]
+sample_group_sequence_change = ["HP0.0.4", "HP0.6.4", "HP0.6.4.GC"]
+group_labels = ["Stem", "Loop", "Unpaired", "Sequence"]
 
-    print_p_matrix(out_matrix_exact_width_top, sample_groups, "Pvalues_Width_Top.csv", proc_data_dir)
-    print_p_matrix(out_matrix_exact_width_bot, sample_groups, "Pvalues_Width_Bot.csv", proc_data_dir)
-    print_p_matrix(out_matrix_exact_mu_top, sample_groups, "Pvalues_Mu_Top.csv", proc_data_dir)
-    print_p_matrix(out_matrix_exact_mu_bot, sample_groups, "Pvalues_Mu_Bot.csv", proc_data_dir)
+colors_loop_top = [(0.1216, 0.3059, 0.8471, 1.0), (0.1490, 0.6510, 0.6039, 1.0), (1.0000, 0.8235, 0.2471, 1.0)]
+colors_loop_bot = [(0.9569, 0.6510, 0.7569, 1.0), (0.580, 0.404, 0.741, 1.0), (0.5451, 0.3529, 0.1686, 1.0)]
 
-    plotter.plot_p_value_matrix(f"Pvalues_Width_Top.csv", proc_data_dir,
-                                save_path=f"{graphics_dir}/Pvalues_Width_Top.pdf")
-    plotter.plot_p_value_matrix(f"Pvalues_Width_Bot.csv", proc_data_dir,
-                                save_path=f"{graphics_dir}/Pvalues_Width_Bot.pdf")
-    plotter.plot_p_value_matrix(f"Pvalues_Mu_Top.csv", proc_data_dir,
-                                save_path=f"{graphics_dir}/Pvalues_Mu_Top.pdf")
-    plotter.plot_p_value_matrix(f"Pvalues_Mu_Bot.csv", proc_data_dir,
-                                save_path=f"{graphics_dir}/Pvalues_Mu_Bot.pdf")
+colors_unpaired_top = [(0.1490, 0.6510, 0.6039, 1.0), (0.7608, 0.0941, 0.5451, 1.0), (1.0000, 0.4353, 0.3804, 1.0)]
+colors_unpaired_bot = [(0.580, 0.404, 0.741, 1.0), (0.9020, 0.8275, 0.6392, 1.0), (0.7529, 0.7529, 0.7529, 1.0)]
 
-# Write out parameters
+colors_top = [{"HP0.0.4": (0.192, 0.627, 0.204, 1.0), "HP0.4.4": (0.690196, 0.0, 0.125490, 1.0), "HP0.6.4": (0.690196, 0.0, 0.125490, 1.0),"HP0.10.4": (0.580, 0.404, 0.741, 1.0)},
+              {"HP0.6.0": (0.1216, 0.3059, 0.8471, 1.0), "HP0.6.4": (0.1490, 0.6510, 0.6039, 1.0), "HP0.6.8": (1.0000, 0.8235, 0.2471, 1.0)},
+              {"HP0.6.4": (0.1490, 0.6510, 0.6039, 1.0), "HP4.6.4": (0.7608, 0.0941, 0.5451, 1.0), "HP5.6.4": (1.0000, 0.4353, 0.3804, 1.0)},
+              {"HP0.0.4": (0.192, 0.627, 0.204, 1.0), "HP0.6.4": (0.1490, 0.6510, 0.6039, 1.0), "HP0.6.4.GC": (1.0000, 1.0000, 1.0000, 1.0)}]
 
-if INCLUDE_CONTROL:
-    pass
-else:
-    sample_groups.remove("HP4.0.4")
+colors_bot = [{"HP0.0.4": (0.192, 0.627, 0.204, 1.0), "HP0.4.4": (0.690196, 0.0, 0.125490, 1.0), "HP0.6.4": (0.690196, 0.0, 0.125490, 1.0),"HP0.10.4": (0.580, 0.404, 0.741, 1.0)},
+              {"HP0.6.0": (0.9569, 0.6510, 0.7569, 1.0), "HP0.6.4": (0.580, 0.404, 0.741, 1.0), "HP0.6.8": (0.5451, 0.3529, 0.1686, 1.0)},
+              {"HP0.6.4": (0.580, 0.404, 0.741, 1.0), "HP4.6.4": (0.9020, 0.8275, 0.6392, 1.0), "HP5.6.4": (0.7529, 0.7529, 0.7529, 1.0)},
+              {"HP0.0.4": (0.192, 0.627, 0.204, 1.0), "HP0.6.4": (0.580, 0.404, 0.741, 1.0), "HP0.6.4.GC": (1.0000, 1.0000, 1.0000, 1.0)}]
 
-cur_group_width_top = {}
-cur_group_width_bot = {}
-cur_group_mu_top = {}
-cur_group_mu_bot = {}
-group_dict = {}
+for sample_group_variation, group_label, color_top, color_bot in zip([sample_group_stem, sample_group_loop, sample_group_unpaired, sample_group_sequence_change], group_labels, colors_top, colors_bot):
+    # Statistics per variational group
+    out_matrix_exact_mu_top = np.zeros((len(sample_group_variation), len(sample_group_variation)))
+    out_matrix_exact_width_top = np.zeros((len(sample_group_variation), len(sample_group_variation)))
+    out_matrix_exact_mu_bot = np.zeros((len(sample_group_variation), len(sample_group_variation)))
+    out_matrix_exact_width_bot = np.zeros((len(sample_group_variation), len(sample_group_variation)))
 
-for samples_group_var in sample_groups:
-    for run in runs:
-        group_dict[f"{samples_group_var}_{run}"] = samples_group_var
-    group_dict[f"{samples_group_var}_Average"] = samples_group_var
-for sample_group_var in sample_groups:
-    cur_dict_width_top = {key: float(widths_top[key]) for key in widths_top.keys() if
-                          key.startswith(sample_group_var)}
-    cur_group_width_top = {**cur_group_width_top, **cur_dict_width_top,
-                           f"{sample_group_var}_Average": float(np.mean(list(cur_dict_width_top.values())))}
-    cur_dict_width_bot = {key: float(widths_bot[key]) for key in widths_bot.keys() if
-                          key.startswith(sample_group_var)}
-    cur_group_width_bot = {**cur_group_width_bot, **cur_dict_width_bot,
-                           f"{sample_group_var}_Average": float(np.mean(list(cur_dict_width_bot.values())))}
-    cur_dict_mu_top = {key: float(centers_top[key]) for key in centers_top.keys() if
-                       key.startswith(sample_group_var)}
-    cur_group_mu_top = {**cur_group_mu_top, **cur_dict_mu_top,
-                        f"{sample_group_var}_Average": float(np.mean(list(cur_dict_mu_top.values())))}
-    cur_dict_mu_bot = {key: float(centers_bot[key]) for key in centers_bot.keys() if
-                       key.startswith(sample_group_var)}
-    cur_group_mu_bot = {**cur_group_mu_bot, **cur_dict_mu_bot,
-                        f"{sample_group_var}_Average": float(np.mean(list(cur_dict_mu_bot.values())))}
+    for i in range(0, len(sample_group_variation)):
+        for j in range(0, len(sample_group_variation)):
+            group_a = [centers_top[a] for a in centers_top.keys() if a.split("_")[0] == sample_group_variation[i]]
+            group_b = [centers_top[a] for a in centers_top.keys() if a.split("_")[0] == sample_group_variation[j]]
+            out_matrix_exact_mu_top[i][j] = stats.f_oneway(group_a, group_b).pvalue
+            group_a = [widths_top[a] for a in widths_top.keys() if a.split("_")[0] == sample_group_variation[i]]
+            group_b = [widths_top[a] for a in widths_top.keys() if a.split("_")[0] == sample_group_variation[j]]
+            out_matrix_exact_width_top[i][j] = stats.f_oneway(group_a, group_b).pvalue
+            group_a = [centers_bot[a] for a in centers_bot.keys() if a.split("_")[0] == sample_group_variation[i]]
+            group_b = [centers_bot[a] for a in centers_bot.keys() if a.split("_")[0] == sample_group_variation[j]]
+            out_matrix_exact_mu_bot[i][j] = stats.f_oneway(group_a, group_b).pvalue
+            group_a = [widths_bot[a] for a in widths_bot.keys() if a.split("_")[0] == sample_group_variation[i]]
+            group_b = [widths_bot[a] for a in widths_bot.keys() if a.split("_")[0] == sample_group_variation[j]]
+            out_matrix_exact_width_bot[i][j] = stats.f_oneway(group_a, group_b).pvalue
 
-print_fit_parameters(cur_group_width_top, group_dict, f"Width_Top.csv", proc_data_dir)
-print_fit_parameters(cur_group_width_bot, group_dict, f"Width_Bot.csv", proc_data_dir)
-print_fit_parameters(cur_group_mu_top, group_dict, f"Mu_Top.csv", proc_data_dir)
-print_fit_parameters(cur_group_mu_bot, group_dict, f"Mu_Bot.csv", proc_data_dir)
+        print_p_matrix(out_matrix_exact_width_top, sample_group_variation, f"{group_label}_Pvalues_Width_Top.csv", proc_data_dir)
+        print_p_matrix(out_matrix_exact_width_bot, sample_group_variation, f"{group_label}_Pvalues_Width_Bot.csv", proc_data_dir)
+        print_p_matrix(out_matrix_exact_mu_top, sample_group_variation, f"{group_label}_Pvalues_Mu_Top.csv", proc_data_dir)
+        print_p_matrix(out_matrix_exact_mu_bot, sample_group_variation, f"{group_label}_Pvalues_Mu_Bot.csv", proc_data_dir)
 
-plotter.plot_fit_paramameter_scatter_single(["Width_Top.csv"], proc_data_dir, "IQR",
-                                            save_path=f"{graphics_dir}/Width_Top.pdf", colors=colors,
-                                            sample_names=sample_name_dict)
-plotter.plot_fit_paramameter_scatter_single(["Width_Bot.csv"], proc_data_dir, "IQR",
-                                            save_path=f"{graphics_dir}/Width_Bot.pdf", colors=colors,
-                                            sample_names=sample_name_dict)
-plotter.plot_fit_paramameter_scatter_single(["Mu_Top.csv"], proc_data_dir, "Mu",
-                                            save_path=f"{graphics_dir}/Mu_Top.pdf", colors=colors,
-                                            sample_names=sample_name_dict)
-plotter.plot_fit_paramameter_scatter_single(["Mu_Bot.csv"], proc_data_dir, "Mu",
-                                            save_path=f"{graphics_dir}/Mu_Bot.pdf", colors=colors,
-                                            sample_names=sample_name_dict)
+        plotter.plot_p_value_matrix(f"{group_label}_Pvalues_Width_Top.csv", proc_data_dir,
+                                    save_path=f"{graphics_dir}/{group_label}_Pvalues_Width_Top.pdf")
+        plotter.plot_p_value_matrix(f"{group_label}_Pvalues_Width_Bot.csv", proc_data_dir,
+                                    save_path=f"{graphics_dir}/{group_label}_Pvalues_Width_Bot.pdf")
+        plotter.plot_p_value_matrix(f"{group_label}_Pvalues_Mu_Top.csv", proc_data_dir,
+                                    save_path=f"{graphics_dir}/{group_label}_Pvalues_Mu_Top.pdf")
+        plotter.plot_p_value_matrix(f"{group_label}_Pvalues_Mu_Bot.csv", proc_data_dir,
+                                    save_path=f"{graphics_dir}/{group_label}_Pvalues_Mu_Bot.pdf")
+
+
+
+    cur_group_width_top = {}
+    cur_group_width_bot = {}
+    cur_group_mu_top = {}
+    cur_group_mu_bot = {}
+    group_dict = {}
+
+
+    for samples_group_var in sample_group_variation:
+        for run in runs:
+            group_dict[f"{samples_group_var}_{run}"] = samples_group_var
+        group_dict[f"{samples_group_var}_Average"] = samples_group_var
+    for sample_group_var in sample_group_variation:
+        cur_dict_width_top = {key: float(widths_top[key]) for key in widths_top.keys() if
+                              key.split("_")[0] == sample_group_var}
+        cur_group_width_top = {**cur_group_width_top, **cur_dict_width_top,
+                               f"{sample_group_var}_Average": float(np.mean(list(cur_dict_width_top.values())))}
+        cur_dict_width_bot = {key: float(widths_bot[key]) for key in widths_bot.keys() if
+                              key.split("_")[0] == sample_group_var}
+        cur_group_width_bot = {**cur_group_width_bot, **cur_dict_width_bot,
+                               f"{sample_group_var}_Average": float(np.mean(list(cur_dict_width_bot.values())))}
+        cur_dict_mu_top = {key: float(centers_top[key]) for key in centers_top.keys() if
+                           key.split("_")[0] == sample_group_var}
+        cur_group_mu_top = {**cur_group_mu_top, **cur_dict_mu_top,
+                            f"{sample_group_var}_Average": float(np.mean(list(cur_dict_mu_top.values())))}
+        cur_dict_mu_bot = {key: float(centers_bot[key]) for key in centers_bot.keys() if
+                           key.split("_")[0] == sample_group_var}
+        cur_group_mu_bot = {**cur_group_mu_bot, **cur_dict_mu_bot,
+                            f"{sample_group_var}_Average": float(np.mean(list(cur_dict_mu_bot.values())))}
+    print_fit_parameters(cur_group_width_top, group_dict, f"{group_label}_Width_Top.csv", proc_data_dir)
+    print_fit_parameters(cur_group_width_bot, group_dict, f"{group_label}_Width_Bot.csv", proc_data_dir)
+    print_fit_parameters(cur_group_mu_top, group_dict, f"{group_label}_Mu_Top.csv", proc_data_dir)
+    print_fit_parameters(cur_group_mu_bot, group_dict, f"{group_label}_Mu_Bot.csv", proc_data_dir)
+
+    plotter.plot_fit_paramameter_scatter_single([f"{group_label}_Width_Top.csv"], proc_data_dir, "IQR",
+                                                save_path=f"{graphics_dir}/{group_label}_Width_Top.pdf", colors=color_top,
+                                                sample_names=sample_name_dict)
+    plotter.plot_fit_paramameter_scatter_single([f"{group_label}_Width_Bot.csv"], proc_data_dir, "IQR",
+                                                save_path=f"{graphics_dir}/{group_label}_Width_Bot.pdf", colors=color_bot,
+                                                sample_names=sample_name_dict)
+    plotter.plot_fit_paramameter_scatter_single([f"{group_label}_Mu_Top.csv"], proc_data_dir, "Mu",
+                                                save_path=f"{graphics_dir}/{group_label}_Mu_Top.pdf", colors=color_top,
+                                                sample_names=sample_name_dict)
+    plotter.plot_fit_paramameter_scatter_single([f"{group_label}_Mu_Bot.csv"], proc_data_dir, "Mu",
+                                                save_path=f"{graphics_dir}/{group_label}_Mu_Bot.pdf", colors=color_bot,
+                                                sample_names=sample_name_dict)

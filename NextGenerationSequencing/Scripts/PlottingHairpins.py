@@ -41,14 +41,16 @@ sample_name_dict = {
     "HP0.0.4": "Hp(0,0,4)",
     "HP004": "Hp(0,0,4)",
     "HP060": "Hp(0,6,0)",
-    "HP0.6.0": "HP(0,6,0)",
+    "HP0.6.0": "Hp(0,6,0)",
     "HP068": "Hp(0,6,8)",
-    "HP0.6.8": "HP(0,6,8)",
+    "HP0.6.8": "Hp(0,6,8)",
     "HP464": "Hp(4,6,4)",
-    "HP4.6.4": "HP(4,6,4)",
+    "HP4.6.4": "Hp(4,6,4)",
     "HP564": "Hp(5,6,4)",
-    "HP5.6.4": "HP(5,6,4)"
-
+    "HP5.6.4": "Hp(5,6,4)",
+    "HP4.0.4": "Hp(4,0,4)",
+    "HP040": "Hp(4,0,4)",
+    "HP0.6.4.GC": "Hp(0,6,4) mod"
 }
 
 
@@ -166,7 +168,7 @@ for sample_group in sample_groups:
 # Quality plotting
 for sample_group in sample_groups:
     sample_names = [f"{sample_group}_{run}" for run in [1, 2, 3]]
-    plotter.plot_quality_values([f"{sample_name}_Quality.csv" for sample_name in sample_names], proc_data_dir,
+    plotter.plot_quality_values([f"{sample_name}_Quality.csv" for sample_name in sample_names], proc_data_dir, sample_name_dict,
                                 save_path=f"{graphics_dir}/{sample_group}_Quality.pdf")
 
 # Plot nicked DNA data

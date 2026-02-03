@@ -438,6 +438,7 @@ class PlottingNGS:
             plt.clf()
         plt.close()
 
+
     @staticmethod
     def plot_fit_paramameter_scatter_single(file_names_in, directory_in, parameter_name, sample_names,
                                             colors, save_path=None):
@@ -625,7 +626,7 @@ class PlottingNGS:
         plt.close()
 
     @staticmethod
-    def plot_quality_values(file_names_in, directory_in, save_path=None):
+    def plot_quality_values(file_names_in, directory_in, file_dict_in, save_path=None):
         quality_results = read_quality_values(file_names_in, directory_in)
         apply_plot_config(default_plot_config)
         plt.figure()
@@ -633,7 +634,8 @@ class PlottingNGS:
             cur_sample = quality_results[sample_name]
             current_x = sorted(list(cur_sample.keys()))
             current_y = [cur_sample[i] for i in current_x]
-            plt.plot(current_x, current_y, label=sample_name)
+            label = file_dict_in[sample_name.split("_")[0]]+ "_" + sample_name.split("_")[1]
+            plt.plot(current_x, current_y, label=label)
 
         plt.xlabel("Distance from 5'-end [bases]")
         plt.ylabel("Phred quality value")

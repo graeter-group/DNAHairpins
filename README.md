@@ -2,7 +2,7 @@
 
 ## Publication by: Johannes Hahmann, Arjuna Selvakumar, Boris N. Schüpp, Montgomery Labudda, Yuanxu Zhou, Gurudas Chakraborty, Frauke Gräter, and Andreas Herrmann
 
-## GitHub maintained by: Boris N. Schüpp, current version 1.1, last updated 01/02/2026 
+## GitHub maintained by: Boris N. Schüpp, current version 1.1, last updated 03/02/2026 
 
 
 

@@ -24,7 +24,10 @@ def load_long(csv_path):
 
     long = long.dropna(subset=["time", "distance"]).reset_index(drop=True)
 
-    m = long["series"].str.extract(r'^(?P<sample_id>HP\d+N?)_(?P<force>[\d.]+)nN_R(?P<run>\d+)$', flags=re.I)
+    m = long["series"].str.extract(
+        r'^(?P<sample_id>HP\d+[A-Za-z]*)_(?P<force>[\d.]+)nN_R(?P<run>\d+)$',
+        flags=re.I
+    )
     long["sample_id"] = m["sample_id"]
     long["force_nN"] = m["force"].astype(float)
     long["run"] = m["run"].astype(int)
@@ -136,6 +139,7 @@ def plot_subset(long: pd.DataFrame, file_name, graphics_path,
 
     plt.tight_layout()
     plt.savefig(f"{graphics_path}/{file_name}")
+    plt.clf()
 
 matplotlib.use("Agg")
 
@@ -151,6 +155,13 @@ for sample in ["HP004", "HP044", "HP064", "HP0104"]:
     for force in [0.1, 2.0]:
         plot_subset(long_data, samples=[sample, f"{sample}N"], forces=[force], runs=[1,2,3],
                     file_name=f"{sample}_{str(float(force))}nN_EndToEndDistances.pdf", graphics_path=GRAPHICS_PATH)
+
+# Create EndToEnd Distance Plots for Variation of Stem Type
+for sample in ["HP034", "HP034AT", "HP044AT", "HP054AT", "HP054", "HP064AT"]:
+    for force in [0.1, 2.0]:
+        plot_subset(long_data, samples=[sample], forces=[force], runs=[1,2,3],
+                    file_name=f"{sample}_{str(float(force))}nN_EndToEndDistances.pdf", graphics_path=GRAPHICS_PATH)
+
 
 # Create one plot for the main figure
 plot_subset(long_data, samples=["HP064", f"HP064N"], forces=[0.1], runs=[3],

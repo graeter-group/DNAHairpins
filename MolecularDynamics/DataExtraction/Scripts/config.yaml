@@ -125,3 +125,45 @@ systems:
       - [ 1, 50, 175, 224]
     hpindices:
       - [ 51, 174 ]
+  HP034:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 210 ]
+  HP034AT:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 210 ]
+  HP044AT:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 212 ]
+  HP054:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 214 ]
+  HP054AT:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 214 ]
+  HP064AT:
+    endtoend:
+      - [ 1, 101 ]
+    nhpindices:
+      - [ 1, 100 ]
+    hpindices:
+      - [ 101, 216 ]

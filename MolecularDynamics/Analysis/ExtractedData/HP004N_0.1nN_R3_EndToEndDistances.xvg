@@ -1,4 +1,4 @@
-# This file was created Sun Nov  9 23:19:53 2025
+# This file was created Tue Mar 10 00:31:52 2026
 # Created by:
 #                     :-) GROMACS - gmx distance, 2025.2 (-:
 # 
@@ -6,10 +6,10 @@
 # Data prefix:  /mpcdf/soft/SLE_15/packages/skylake/gromacs/gcc_13-13.1.0-cuda_12.6-12.6.1-impi_2021.14-2021.14.0/2025.2
 # Working dir:  /nexus/posix0/bmm/home/bschuepp/Hairpins/2_Data_Extraction/0_Scripts
 # Command line:
-#   gmx distance -f ../2_Processed_Data//HP004N_0.1nN_R3_Proc.xtc -s ../1_Raw_Data//HP004N_0.1nN_R3.tpr -n ../3_Index_Files//HP004N_0.1nN_R3_EtE.ndx -oall ../../3_Data_Analysis/1_Extracted_Data//HP004N_0.1nN_R3_EndToEndDistances.xvg -select 0 -nopbc
+#   gmx distance -f ../2_Processed_Data/HP004N_0.1nN_R3_Proc.xtc -s ../1_Raw_Data/HP004N_0.1nN_R3.tpr -n ../3_Index_Files/HP004N_0.1nN_R3_EtE.ndx -oall ../../3_Data_Analysis/1_Extracted_Data/HP004N_0.1nN_R3_EndToEndDistances.xvg -select 0 -nopbc
 # gmx distance is part of G R O M A C S:
 #
-# Green Red Orange Magenta Azure Cyan Skyblue
+# Gravel Rubs Often Many Awfully Cauterized Sores
 #
 @    title "Distance"
 @    xaxis  label "Time (ps)"

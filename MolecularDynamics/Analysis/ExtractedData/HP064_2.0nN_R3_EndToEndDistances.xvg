@@ -1,4 +1,4 @@
-# This file was created Sun Nov  9 23:24:22 2025
+# This file was created Tue Mar 10 00:38:01 2026
 # Created by:
 #                     :-) GROMACS - gmx distance, 2025.2 (-:
 # 
@@ -6,10 +6,10 @@
 # Data prefix:  /mpcdf/soft/SLE_15/packages/skylake/gromacs/gcc_13-13.1.0-cuda_12.6-12.6.1-impi_2021.14-2021.14.0/2025.2
 # Working dir:  /nexus/posix0/bmm/home/bschuepp/Hairpins/2_Data_Extraction/0_Scripts
 # Command line:
-#   gmx distance -f ../2_Processed_Data//HP064_2.0nN_R3_Proc.xtc -s ../1_Raw_Data//HP064_2.0nN_R3.tpr -n ../3_Index_Files//HP064_2.0nN_R3_EtE.ndx -oall ../../3_Data_Analysis/1_Extracted_Data//HP064_2.0nN_R3_EndToEndDistances.xvg -select 0 -nopbc
+#   gmx distance -f ../2_Processed_Data/HP064_2.0nN_R3_Proc.xtc -s ../1_Raw_Data/HP064_2.0nN_R3.tpr -n ../3_Index_Files/HP064_2.0nN_R3_EtE.ndx -oall ../../3_Data_Analysis/1_Extracted_Data/HP064_2.0nN_R3_EndToEndDistances.xvg -select 0 -nopbc
 # gmx distance is part of G R O M A C S:
 #
-# Gyas ROwers Mature At Cryogenic Speed
+# Gromacs Runs One Microsecond At Cannonball Speeds
 #
 @    title "Distance"
 @    xaxis  label "Time (ps)"
